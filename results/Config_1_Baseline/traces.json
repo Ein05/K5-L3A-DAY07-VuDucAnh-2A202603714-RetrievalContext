@@ -1,0 +1,1063 @@
+[
+  {
+    "query_id": "q_0",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chứng nhận hợp quy công bố hợp quy sản phẩm công nghệ thông tin và truyền thông",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_630493",
+            "source_id": "legal_630493",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 2",
+            "text": "Điều 2 30/2011/TT-BTTTT quy định về chứng nhận hợp quy và công bố hợp quy đối với sản phẩm, hàng hóa chuyên ngành công nghệ thông tin về truyền thông Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Chứng nhận hợp quy là việc xác nhận sản phẩm phù hợp với quy chuẩn kỹ thuật do Bộ Thông tin và Truyền thông ban hành và/hoặc tiêu chuẩn do Bộ Thông tin và Truyền thông quy định bắt buộc áp dụng (sau đây gọi chung là quy chuẩn kỹ thuật) nhằm bảo đảm tính tương thích của sản phẩm trong kết nối, an toàn mạng viễn thông quốc gia, an ninh thông tin, bảo đảm các yêu cầu về tương thích điện từ trường, sử dụng có hiệu quả và tiết kiệm tài nguyên phổ tần số vô tuyến điện, an toàn cho con người và môi trường, bảo vệ quyền lợi của người sử dụng. 2. Công bố hợp quy là việc tổ chức, cá nhân công bố với cơ quan quản lý nhà nước và người tiêu dùng về sự phù hợp của sản phẩm với quy chuẩn kỹ thuật tương ứng sau khi thực hiện quá trình đánh giá sự phù hợp. 3. Đo kiếm sản phẩm là việc xác định một hay nhiều đặc tính kỹ thuật của sản phẩm theo quy chuẩn kỹ thuật tương ứng. 4. Tổ chức chứng nhận hợp quy là đơn vị sự nghiệp hoạt động dịch vụ kỹ thuật được Bộ Thông tin và Truyền thông giao trách nhiệm thực hiện công tác chứng nhận hợp quy. 5. Đơn vị đo kiểm là đơn vị có năng lực thực hiện được việc đo kiểm các đặc tính kỹ thuật của sản phẩm theo quy chuẩn kỹ thuật tương ứng. 6. Đơn vị đo kiểm được chỉ định là đơn vị đo kiểm được Bộ Thông tin và Truyền thông chỉ định để thực hiện đo kiểm phục vụ chứng nhận và công bố hợp quy. 7. Đơn vị đo kiểm được thừa nhận là đơn vị đo kiểm nước ngoài được Bộ Thông tin và Truyền thông thừa nhận trong khuôn khổ thỏa thuận thừa nhận lẫn nhau. 8. Đơn vị đo kiểm được công nhận là đơn vị đo kiểm đủ năng lực thực hiện đo kiểm phục vụ công bố hợp quy và được công nhận bởi Tổ chức công nhận có thẩm quyền.",
+            "metadata": {
+              "title": "Điều 2 30/2011/TT-BTTTT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 2"
+            },
+            "score": 0.44698986549429914,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_32",
+            "source_id": "legal_32",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 8",
+            "text": "Điều 8 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Tiếp nhận, thẩm định hồ sơ đăng ký cấp Giấy xác nhận 1. Tổ chức, cá nhân đăng ký cấp Giấy xác nhận gửi hồ sơ trực tiếp hoặc theo đường bưu điện đến cơ quan thường trực của Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường). 2. Vụ Khoa học, Công nghệ và Môi trường xem xét hồ sơ và thông báo bằng văn bản (theo mẫu quy định tại Phụ lục 5 của Thông tư này) cho tổ chức, cá nhân đăng ký trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ về việc chấp nhận hồ sơ hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian xem xét hồ sơ hợp lệ. 3. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường đăng tải thông tin và bản tóm tắt báo cáo đánh giá rủi ro trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn để lấy ý kiến công chúng; tổng hợp và gửi Hội đồng. Thời gian lấy ý kiến công chúng tối đa 30 (ba mươi) ngày, kể từ ngày thông tin được đăng tải. 4. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường tổ chức Hội đồng để đánh giá hồ sơ đăng ký cấp Giấy xác nhận trong thời hạn 30 (ba mươi) ngày đối với hồ sơ đăng ký theo khoản 1 Điều 6 của Thông tư này và 180 (một trăm tám mươi) ngày đối với hồ sơ đăng ký theo khoản 2 Điều 6 của Thông tư này.",
+            "metadata": {
+              "title": "Điều 8 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 8"
+            },
+            "score": 0.2515175016168563,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_35",
+            "source_id": "legal_35",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 11",
+            "text": "Điều 11 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Lập danh mục, bổ sung và xóa tên thực vật biến đổi gen trong Danh mục thực vật biến đổi gen được cấp Giấy xác nhận Vụ Khoa học, Công nghệ và Môi trường thực hiện các nhiệm vụ sau: 1. Lập và công bố trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn Danh mục thực vật biến đổi gen được cấp Giấy xác nhận. 2. Bổ sung và công bố trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn: thực vật biến đổi gen được cấp Giấy xác nhận vào Danh mục thực vật biến đổi gen được cấp Giấy xác nhận đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi trong thời hạn 10 (mười) ngày, kể từ ngày có quyết định cấp Giấy xác nhận. 3. Xóa tên và công bố trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn: thực vật biến đổi gen thuộc các trường hợp vi phạm trong Danh mục thực vật biến đổi gen được cấp Giấy xác nhận đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi trong thời hạn 10 (mười) ngày, kể từ ngày có quyết định thu hồi Giấy xác nhận.",
+            "metadata": {
+              "title": "Điều 11 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 11"
+            },
+            "score": 0.24880096964194737,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 1.69
+  },
+  {
+    "query_id": "q_1",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "độ tuổi tối đa người nước ngoài nhận con nuôi Việt Nam quy định pháp luật",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_20792",
+            "source_id": "legal_20792",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 29",
+            "text": "Điều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+            "metadata": {
+              "title": "Điều 29 52/2010/QH12",
+              "loai_vb": "Luật",
+              "dieu": "Điều 29"
+            },
+            "score": 0.46825128843568053,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_9",
+            "source_id": "legal_9",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 01/2014/NQLT/CP-UBTƯMTTQVN hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận tham gia thực hiện hoạt động hòa giải ở cơ sở Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận các cấp ở địa phương mà nòng cốt là Hội Liên hiệp phụ nữ Việt Nam, Hội Cựu chiến binh Việt Nam, Đoàn Thanh niên cộng sản Hồ Chí Minh, Hội Nông dân Việt Nam, Hội Người cao tuổi Việt Nam hướng dẫn, khuyến khích, động viên và tạo điều kiện thuận lợi cho các thành viên của Mặt trận Tổ quốc Việt Nam, đoàn viên, hội viên các tổ chức thành viên của Mặt trận làm hòa giải viên hoặc tham gia trực tiếp hòa giải các mâu thuẫn, tranh chấp ở cơ sở. Các thành viên của Mặt trận Tổ quốc Việt Nam, đoàn viên, hội viên các tổ chức thành viên của Mặt trận tham gia hòa giải ở cơ sở được Ủy ban nhân dân cấp xã hỗ trợ tài liệu, phổ biến pháp luật phục vụ hoạt động hòa giải ở cơ sở, khen thưởng hoặc đề nghị Ủy ban nhân dân cấp trên khen thưởng khi tích cực tham gia hoạt động hòa giải ở cơ sở theo quy định tại Điểm d Khoản 1, Điểm d Khoản 2, Điểm a và Điểm d Khoản 3 Điều 4 của Nghị định số 15/2014/NĐ-CP ngày 27 tháng 02 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hòa giải ở cơ sở.",
+            "metadata": {
+              "title": "Điều 10 01/2014/NQLT/CP-UBTƯMTTQVN",
+              "loai_vb": "Văn bản khác",
+              "dieu": "Điều 10"
+            },
+            "score": 0.1582986642737916,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_569613",
+            "source_id": "legal_569613",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.15429926634008653,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[B_legal_20792 | legal_truncated_corpus.csv | page Điều 29]\nĐiều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+        "context_ids": [
+          "B_legal_20792"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 1.7
+  },
+  {
+    "query_id": "q_2",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "hồ sơ đề nghị chấp thuận thành lập chi nhánh tổ chức tín dụng phi ngân hàng gồm những gì",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_516494",
+            "source_id": "legal_516494",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 9",
+            "text": "Điều 9 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng Hồ sơ đề nghị chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp 1. Văn bản của tổ chức tín dụng phi ngân hàng đề nghị Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước) chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp theo mẫu Phụ lục ban hành kèm theo Thông tư này. 2. Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên của tổ chức tín dụng phi ngân hàng về việc thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp hoặc văn bản của cấp có thẩm quyền khác theo quy định tại Điều lệ của tổ chức tín dụng phi ngân hàng. 3. Đề án thành lập chi nhánh, trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tên viết tắt bằng tiếng Việt, địa chỉ trụ sở, nội dung hoạt động; b) Lý do thành lập và lựa chọn địa bàn thành lập; c) Cơ cấu tổ chức: sơ đồ tổ chức của chi nhánh, dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn); đ) Nghiên cứu khả thi: phân tích môi trường kinh doanh, thị trường mục tiêu, các cơ hội kinh doanh và kế hoạch chiếm lĩnh thị trường; đ) Phương án kinh doanh dự kiến trong 03 năm đầu, trong đó tối thiểu bao gồm: dự kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; căn cứ xây dựng phương án và thuyết minh khả năng thực hiện phương án trong từng năm. 4. Đề án thành lập văn phòng đại diện, đơn vị sự nghiệp trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tiếng nước ngoài (nếu có); tên viết tắt bằng tiếng Việt, tiếng nước ngoài (nếu có); địa chỉ; nội dung hoạt động; b) Lý do, nhu cầu thành lập; c) Dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn, người đứng đầu văn phòng đại diện, đơn vị sự nghiệp); d) Kế hoạch hoạt động dự kiến trong 03 năm đầu.",
+            "metadata": {
+              "title": "Điều 9 53/2018/TT-NHNN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 9"
+            },
+            "score": 0.5127497046508985,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_32",
+            "source_id": "legal_32",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 8",
+            "text": "Điều 8 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Tiếp nhận, thẩm định hồ sơ đăng ký cấp Giấy xác nhận 1. Tổ chức, cá nhân đăng ký cấp Giấy xác nhận gửi hồ sơ trực tiếp hoặc theo đường bưu điện đến cơ quan thường trực của Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường). 2. Vụ Khoa học, Công nghệ và Môi trường xem xét hồ sơ và thông báo bằng văn bản (theo mẫu quy định tại Phụ lục 5 của Thông tư này) cho tổ chức, cá nhân đăng ký trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ về việc chấp nhận hồ sơ hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian xem xét hồ sơ hợp lệ. 3. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường đăng tải thông tin và bản tóm tắt báo cáo đánh giá rủi ro trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn để lấy ý kiến công chúng; tổng hợp và gửi Hội đồng. Thời gian lấy ý kiến công chúng tối đa 30 (ba mươi) ngày, kể từ ngày thông tin được đăng tải. 4. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường tổ chức Hội đồng để đánh giá hồ sơ đăng ký cấp Giấy xác nhận trong thời hạn 30 (ba mươi) ngày đối với hồ sơ đăng ký theo khoản 1 Điều 6 của Thông tư này và 180 (một trăm tám mươi) ngày đối với hồ sơ đăng ký theo khoản 2 Điều 6 của Thông tư này.",
+            "metadata": {
+              "title": "Điều 8 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 8"
+            },
+            "score": 0.14233313784081505,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_72",
+            "source_id": "legal_72",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 3",
+            "text": "Điều 3 06/2009/TT-BKHCN hướng dẫn về điều kiện, thủ tục xét tặng giải thưởng chất lượng sản phẩm, hàng hóa của tổ chức, cá nhân Thủ tục đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hóa và cấp Giấy xác nhận 3.1. Trước khi tổ chức xét tặng giải thưởng ít nhất 02 tháng, đơn vị tổ chức xét thưởng phải lập hồ sơ đăng ký gửi về cơ quan tương ứng sau: a) Tổng cục Tiêu chuẩn Đo lường Chất lượng đối với các giải thưởng do cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội – nghề nghiệp, tổ chức xã hội, tổ chức xã hội – nghề nghiệp, Hội, Hiệp hội ở Trung ương, Sở Khoa học và Công nghệ các tỉnh, thành phố tổ chức. b) Sở Khoa học và Công nghệ tỉnh, thành phố đối với các giải thưởng do tổ chức, cá nhân tổ chức trên địa bàn tỉnh, thành phố, trừ các tổ chức quy định tại điểm a khoản này. 3.2. Hồ sơ đăng ký gồm có: a) Giấy đăng ký hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hóa (theo mẫu quy định tại Phụ lục I của Thông tư này); b) Bản sao Quyết định thành lập hoặc bản sao Giấy phép kinh doanh/Giấy đăng ký hoạt động (đối với tổ chức); c) Văn bản, quyết định của cơ quan quản lý nhà nước có thẩm quyền cho phép tổ chức giải thưởng (nếu có); d) Danh sách cán bộ, nhân viên tham gia tổ chức hoạt động xét tặng giải thưởng (tên, chức danh, trình độ, kinh nghiệm tổ chức hoạt động xét tặng giải thưởng chất lượng sản phẩm, hàng hóa, Quyết định tuyển dụng/Hợp đồng lao động); đ) Kế hoạch và thời gian xét tặng giải thưởng; e) Quy chế xét thưởng; g) Dự kiến danh sách thành viên Hội đồng xét thưởng (trình độ, chuyên môn); h) Báo cáo về khả năng tài chính để bảo đảm tổ chức thành công hoạt động xét tặng giải thưởng, gồm các nội dung sau: dự kiến kinh phí chi cho toàn bộ hoạt động xét tặng giải thưởng, mức phí cho từng hoạt động và nguồn kinh phí sử dụng; i) Mẫu hồ sơ mời đăng ký để được xét tặng giải thưởng. 3.3.",
+            "metadata": {
+              "title": "Điều 3 06/2009/TT-BKHCN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 3"
+            },
+            "score": 0.1292588166579042,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 1.54
+  },
+  {
+    "query_id": "q_4",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "du lịch nước ngoài đến Việt Nam qua đường biển mua hàng miễn thuế tại cửa hàng cảng biển quy định",
+        "filter": {
+          "loai_vb": "Nghị định"
+        },
+        "results": [
+          {
+            "id": "B_legal_74452",
+            "source_id": "legal_74452",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 3",
+            "text": "Điều 3 167/2016/NĐ-CP về kinh doanh hàng miễn thuế Đối tượng và điều kiện mua hàng miễn thuế 1. Người xuất cảnh, quá cảnh sau khi hoàn thành thủ tục xuất cảnh, quá cảnh, hành khách trên các chuyến bay quốc tế xuất cảnh từ Việt Nam hoặc người chờ xuất cảnh được mua hàng miễn thuế: a) Người xuất cảnh, quá cảnh qua các cửa khẩu đường bộ quốc tế; cửa khẩu ga đường sắt liên vận quốc tế, cửa khẩu cảng biển loại 1, cửa khẩu cảng hàng không dân dụng quốc tế được mua hàng miễn thuế tại cửa hàng miễn thuế nằm trong khu vực cách ly; hành khách trên các chuyến bay quốc tế xuất cảnh từ Việt Nam được mua hàng miễn thuế trên tàu bay; b) Người chờ xuất cảnh được mua hàng miễn thuế tại cửa hàng miễn thuế trong nội địa. Hàng hóa miễn thuế được nhận tại quầy nhận hàng trong khu cách ly tại cửa khẩu quốc tế nơi hành khách xuất cảnh; c) Khách du lịch là người nước ngoài theo đoàn bằng đường biển, có hộ chiếu hoặc giấy thông hành hoặc thẻ đi bờ của hành khách xuất nhập cảnh theo quy định nhưng không có thị thực nhập cảnh, không có tờ khai nhập cảnh, xuất cảnh được mua hàng miễn thuế tại cửa khẩu cảng biển loại 1, cửa hàng miễn thuế trong nội địa. Hàng hóa miễn thuế được nhận tại cửa khẩu xuất cảnh sau khi khách du lịch hoàn thành thủ tục xuất cảnh. 2. Hành khách trên các chuyến bay quốc tế đến Việt Nam được mua hàng miễn thuế trên tàu bay đang thực hiện chuyến bay quốc tế đến Việt Nam. 3. Người nhập cảnh được mua hàng miễn thuế tại cửa hàng miễn thuế đặt tại khu vực hạn chế của cảng hàng không dân dụng quốc tế ngay sau khi hoàn thành thủ tục nhập cảnh, không được mua hàng miễn thuế sau khi đã ra khỏi khu vực hạn chế tại cảng hàng không dân dụng quốc tế. 4. Đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam được mua hàng miễn thuế tại cửa hàng miễn thuế trong nội địa. Khi mua hàng miễn thuế cho tổ chức phải xuất trình sổ định mức hàng miễn thuế.",
+            "metadata": {
+              "title": "Điều 3 167/2016/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 3"
+            },
+            "score": 0.5944322283230316,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_83644",
+            "source_id": "legal_83644",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 46/2015/NĐ-CP về quản lý chất lượng và bảo trì công trình xây dựng Nhiệm vụ thiết kế xây dựng công trình 1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập nhiệm vụ thiết kế xây dựng công trình. 2. Nhiệm vụ thiết kế xây dựng công trình phải phù hợp với báo cáo nghiên cứu tiền khả thi hoặc báo cáo đề xuất chủ trương đầu tư xây dựng công trình. Nhiệm vụ thiết kế xây dựng công trình là căn cứ để lập dự án đầu tư xây dựng công trình, lập thiết kế xây dựng công trình. Chủ đầu tư có thể thuê tổ chức tư vấn, chuyên gia góp ý hoặc thẩm tra nhiệm vụ thiết kế khi cần thiết 3. Nội dung chính của nhiệm vụ thiết kế xây dựng công trình bao gồm: a) Các căn cứ để lập nhiệm vụ thiết kế xây dựng công trình; b) Mục tiêu xây dựng công trình; c) Địa điểm xây dựng công trình; d) Các yêu cầu về quy hoạch, cảnh quan và kiến trúc của công trình; đ) Các yêu cầu về quy mô và thời hạn sử dụng công trình, công năng sử dụng và các yêu cầu kỹ thuật khác đối với công trình. 4. Nhiệm vụ thiết kế xây dựng công trình được bổ sung, sửa đổi cho phù hợp với điều kiện thực tế để đảm bảo hiệu quả dự án đầu tư xây dựng công trình.",
+            "metadata": {
+              "title": "Điều 18 46/2015/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 18"
+            },
+            "score": 0.0010558357187517148,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 1.89
+  },
+  {
+    "query_id": "q_6",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "người được bảo vệ theo Luật tố cáo nghĩa vụ",
+        "filter": {
+          "loai_vb": "Luật"
+        },
+        "results": [
+          {
+            "id": "B_legal_6567",
+            "source_id": "legal_6567",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 48",
+            "text": "Điều 48 25/2018/QH14 tố cáo Quyền và nghĩa vụ của người được bảo vệ 1. Người được bảo vệ có các quyền sau đây: a) Được biết về các biện pháp bảo vệ; b) Được giải thích về quyền và nghĩa vụ khi được áp dụng biện pháp bảo vệ; c) Đề nghị thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ; d) Từ chối áp dụng biện pháp bảo vệ; đ) Được bồi thường theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước trong trường hợp người tố cáo đã đề nghị người giải quyết tố cáo, cơ quan khác có thẩm quyền áp dụng biện pháp bảo vệ mà không áp dụng biện pháp bảo vệ hoặc áp dụng không kịp thời, không đúng quy định của pháp luật, gây thiệt hại về tính mạng, sức khỏe, tài sản, tinh thần cho người được bảo vệ. 2. Người được bảo vệ có các nghĩa vụ sau đây: a) Chấp hành nghiêm chỉnh yêu cầu của cơ quan có thẩm quyền áp dụng biện pháp bảo vệ; b) Giữ bí mật thông tin về việc được bảo vệ; c) Thông báo kịp thời đến cơ quan áp dụng biện pháp bảo vệ về những vấn đề phát sinh trong thời gian được bảo vệ.",
+            "metadata": {
+              "title": "Điều 48 25/2018/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 48"
+            },
+            "score": 0.5269497554037956,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_20792",
+            "source_id": "legal_20792",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 29",
+            "text": "Điều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+            "metadata": {
+              "title": "Điều 29 52/2010/QH12",
+              "loai_vb": "Luật",
+              "dieu": "Điều 29"
+            },
+            "score": 0.15667960823270877,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_14661",
+            "source_id": "legal_14661",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 59",
+            "text": "Điều 59 67/2014/QH13 đầu tư Thủ tục cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài 1. Đối với các dự án đầu tư thuộc diện phải quyết định chủ trương đầu tư ra nước ngoài, Bộ Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài cho nhà đầu tư trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản quyết định chủ trương đầu tư. 2. Đối với dự án không thuộc trường hợp quy định tại khoản 1 Điều này, nhà đầu tư nộp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký đầu tư cho Bộ Kế hoạch và Đầu tư. Hồ sơ gồm: a) Văn bản đăng ký đầu tư ra nước ngoài; b) Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân; bản sao Giấy chứng nhận thành lập hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức; c) Quyết định đầu tư ra nước ngoài theo quy định tại khoản 1 và khoản 2 Điều 57 của Luật này; d) Văn bản cam kết tự cân đối nguồn ngoại tệ hoặc văn bản của tổ chức tín dụng được phép cam kết thu xếp ngoại tệ cho nhà đầu tư theo quy định tại khoản 3 Điều 58 của Luật này; đ) Đối với dự án đầu tư ra nước ngoài trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm, khoa học và công nghệ, nhà đầu tư nộp văn bản chấp thuận của cơ quan nhà nước có thẩm quyền về việc đáp ứng điều kiện đầu tư ra nước ngoài theo quy định của Luật các tổ chức tín dụng, Luật chứng khoán, Luật khoa học và công nghệ, Luật kinh doanh bảo hiểm. 3. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ theo quy định tại khoản 2 Điều này, Bộ Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài. Trường hợp từ chối cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài thì phải thông báo cho nhà đầu tư bằng văn bản và nêu rõ lý do.",
+            "metadata": {
+              "title": "Điều 59 67/2014/QH13",
+              "loai_vb": "Luật",
+              "dieu": "Điều 59"
+            },
+            "score": 0.05459122457672158,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[B_legal_20792 | legal_truncated_corpus.csv | page Điều 29]\nĐiều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+        "context_ids": [
+          "B_legal_20792"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 1.62
+  },
+  {
+    "query_id": "q_7",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quyền của người được bảo vệ theo Luật tố cáo",
+        "filter": {
+          "loai_vb": "Luật"
+        },
+        "results": [
+          {
+            "id": "B_legal_6567",
+            "source_id": "legal_6567",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 48",
+            "text": "Điều 48 25/2018/QH14 tố cáo Quyền và nghĩa vụ của người được bảo vệ 1. Người được bảo vệ có các quyền sau đây: a) Được biết về các biện pháp bảo vệ; b) Được giải thích về quyền và nghĩa vụ khi được áp dụng biện pháp bảo vệ; c) Đề nghị thay đổi, bổ sung, chấm dứt việc áp dụng biện pháp bảo vệ; d) Từ chối áp dụng biện pháp bảo vệ; đ) Được bồi thường theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước trong trường hợp người tố cáo đã đề nghị người giải quyết tố cáo, cơ quan khác có thẩm quyền áp dụng biện pháp bảo vệ mà không áp dụng biện pháp bảo vệ hoặc áp dụng không kịp thời, không đúng quy định của pháp luật, gây thiệt hại về tính mạng, sức khỏe, tài sản, tinh thần cho người được bảo vệ. 2. Người được bảo vệ có các nghĩa vụ sau đây: a) Chấp hành nghiêm chỉnh yêu cầu của cơ quan có thẩm quyền áp dụng biện pháp bảo vệ; b) Giữ bí mật thông tin về việc được bảo vệ; c) Thông báo kịp thời đến cơ quan áp dụng biện pháp bảo vệ về những vấn đề phát sinh trong thời gian được bảo vệ.",
+            "metadata": {
+              "title": "Điều 48 25/2018/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 48"
+            },
+            "score": 0.5535994153399811,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_20792",
+            "source_id": "legal_20792",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 29",
+            "text": "Điều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+            "metadata": {
+              "title": "Điều 29 52/2010/QH12",
+              "loai_vb": "Luật",
+              "dieu": "Điều 29"
+            },
+            "score": 0.18093870269620566,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_14661",
+            "source_id": "legal_14661",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 59",
+            "text": "Điều 59 67/2014/QH13 đầu tư Thủ tục cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài 1. Đối với các dự án đầu tư thuộc diện phải quyết định chủ trương đầu tư ra nước ngoài, Bộ Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài cho nhà đầu tư trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản quyết định chủ trương đầu tư. 2. Đối với dự án không thuộc trường hợp quy định tại khoản 1 Điều này, nhà đầu tư nộp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký đầu tư cho Bộ Kế hoạch và Đầu tư. Hồ sơ gồm: a) Văn bản đăng ký đầu tư ra nước ngoài; b) Bản sao chứng minh nhân dân, thẻ căn cước hoặc hộ chiếu đối với nhà đầu tư là cá nhân; bản sao Giấy chứng nhận thành lập hoặc tài liệu tương đương khác xác nhận tư cách pháp lý đối với nhà đầu tư là tổ chức; c) Quyết định đầu tư ra nước ngoài theo quy định tại khoản 1 và khoản 2 Điều 57 của Luật này; d) Văn bản cam kết tự cân đối nguồn ngoại tệ hoặc văn bản của tổ chức tín dụng được phép cam kết thu xếp ngoại tệ cho nhà đầu tư theo quy định tại khoản 3 Điều 58 của Luật này; đ) Đối với dự án đầu tư ra nước ngoài trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm, khoa học và công nghệ, nhà đầu tư nộp văn bản chấp thuận của cơ quan nhà nước có thẩm quyền về việc đáp ứng điều kiện đầu tư ra nước ngoài theo quy định của Luật các tổ chức tín dụng, Luật chứng khoán, Luật khoa học và công nghệ, Luật kinh doanh bảo hiểm. 3. Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ theo quy định tại khoản 2 Điều này, Bộ Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài. Trường hợp từ chối cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài thì phải thông báo cho nhà đầu tư bằng văn bản và nêu rõ lý do.",
+            "metadata": {
+              "title": "Điều 59 67/2014/QH13",
+              "loai_vb": "Luật",
+              "dieu": "Điều 59"
+            },
+            "score": 0.07289194346816541,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[B_legal_20792 | legal_truncated_corpus.csv | page Điều 29]\nĐiều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+        "context_ids": [
+          "B_legal_20792"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 1.35
+  },
+  {
+    "query_id": "q_8",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "thủ tục cấp giấy chứng nhận đăng ký đầu tư ra nước ngoài",
+        "filter": {
+          "loai_vb": "Nghị định"
+        },
+        "results": [
+          {
+            "id": "B_legal_83644",
+            "source_id": "legal_83644",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 46/2015/NĐ-CP về quản lý chất lượng và bảo trì công trình xây dựng Nhiệm vụ thiết kế xây dựng công trình 1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập nhiệm vụ thiết kế xây dựng công trình. 2. Nhiệm vụ thiết kế xây dựng công trình phải phù hợp với báo cáo nghiên cứu tiền khả thi hoặc báo cáo đề xuất chủ trương đầu tư xây dựng công trình. Nhiệm vụ thiết kế xây dựng công trình là căn cứ để lập dự án đầu tư xây dựng công trình, lập thiết kế xây dựng công trình. Chủ đầu tư có thể thuê tổ chức tư vấn, chuyên gia góp ý hoặc thẩm tra nhiệm vụ thiết kế khi cần thiết 3. Nội dung chính của nhiệm vụ thiết kế xây dựng công trình bao gồm: a) Các căn cứ để lập nhiệm vụ thiết kế xây dựng công trình; b) Mục tiêu xây dựng công trình; c) Địa điểm xây dựng công trình; d) Các yêu cầu về quy hoạch, cảnh quan và kiến trúc của công trình; đ) Các yêu cầu về quy mô và thời hạn sử dụng công trình, công năng sử dụng và các yêu cầu kỹ thuật khác đối với công trình. 4. Nhiệm vụ thiết kế xây dựng công trình được bổ sung, sửa đổi cho phù hợp với điều kiện thực tế để đảm bảo hiệu quả dự án đầu tư xây dựng công trình.",
+            "metadata": {
+              "title": "Điều 18 46/2015/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 18"
+            },
+            "score": 0.07182767431906882,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_74452",
+            "source_id": "legal_74452",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 3",
+            "text": "Điều 3 167/2016/NĐ-CP về kinh doanh hàng miễn thuế Đối tượng và điều kiện mua hàng miễn thuế 1. Người xuất cảnh, quá cảnh sau khi hoàn thành thủ tục xuất cảnh, quá cảnh, hành khách trên các chuyến bay quốc tế xuất cảnh từ Việt Nam hoặc người chờ xuất cảnh được mua hàng miễn thuế: a) Người xuất cảnh, quá cảnh qua các cửa khẩu đường bộ quốc tế; cửa khẩu ga đường sắt liên vận quốc tế, cửa khẩu cảng biển loại 1, cửa khẩu cảng hàng không dân dụng quốc tế được mua hàng miễn thuế tại cửa hàng miễn thuế nằm trong khu vực cách ly; hành khách trên các chuyến bay quốc tế xuất cảnh từ Việt Nam được mua hàng miễn thuế trên tàu bay; b) Người chờ xuất cảnh được mua hàng miễn thuế tại cửa hàng miễn thuế trong nội địa. Hàng hóa miễn thuế được nhận tại quầy nhận hàng trong khu cách ly tại cửa khẩu quốc tế nơi hành khách xuất cảnh; c) Khách du lịch là người nước ngoài theo đoàn bằng đường biển, có hộ chiếu hoặc giấy thông hành hoặc thẻ đi bờ của hành khách xuất nhập cảnh theo quy định nhưng không có thị thực nhập cảnh, không có tờ khai nhập cảnh, xuất cảnh được mua hàng miễn thuế tại cửa khẩu cảng biển loại 1, cửa hàng miễn thuế trong nội địa. Hàng hóa miễn thuế được nhận tại cửa khẩu xuất cảnh sau khi khách du lịch hoàn thành thủ tục xuất cảnh. 2. Hành khách trên các chuyến bay quốc tế đến Việt Nam được mua hàng miễn thuế trên tàu bay đang thực hiện chuyến bay quốc tế đến Việt Nam. 3. Người nhập cảnh được mua hàng miễn thuế tại cửa hàng miễn thuế đặt tại khu vực hạn chế của cảng hàng không dân dụng quốc tế ngay sau khi hoàn thành thủ tục nhập cảnh, không được mua hàng miễn thuế sau khi đã ra khỏi khu vực hạn chế tại cảng hàng không dân dụng quốc tế. 4. Đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam được mua hàng miễn thuế tại cửa hàng miễn thuế trong nội địa. Khi mua hàng miễn thuế cho tổ chức phải xuất trình sổ định mức hàng miễn thuế.",
+            "metadata": {
+              "title": "Điều 3 167/2016/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 3"
+            },
+            "score": 0.027024185998819842,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 2.27
+  },
+  {
+    "query_id": "q_11",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "đánh dấu mẫu vật lâm sản và sản phẩm gỗ hoàn chỉnh thông tin cần có quy định",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_521204",
+            "source_id": "legal_521204",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 34",
+            "text": "Điều 34 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Đánh dấu mẫu vật 1. Mẫu vật của các loài thuộc các Phụ lục CITES đã có quy định đánh dấu thì thực hiện theo quy định của CITES. 2. Việc đánh dấu có thể thực hiện bằng tem, mã số, mã vạch, mã QR, chip điện tử, vòng, khuyên hoặc vật liệu khác (sau đây gọi chung là nhãn đánh dấu) có chứa đựng thông tin để truy xuất nguồn gốc. 3. Chủ mẫu vật tự quyết định chất liệu, kích thước, hình thức của nhãn đánh dấu, phù hợp với tính chất, chủng loại của mẫu vật và đảm bảo đúng quy định của pháp luật về nhãn hàng hóa. Nhãn đánh dấu được gắn trực tiếp lên mẫu vật, bảo đảm có thể dễ dàng nhận biết bằng mắt thường hoặc thiết bị đọc. 4. Sau khi hoàn thành đánh dấu mẫu vật, trong thời hạn 01 ngày làm việc, chủ lâm sản ghi đủ các thông tin đánh dấu vào sổ theo dõi đánh dấu mẫu vật bằng sổ giấy hoặc sổ điện tử theo Mẫu số 12 kèm theo Thông tư này và chịu trách nhiệm về tính trung thực, rõ ràng, chính xác của nhãn đánh dấu.",
+            "metadata": {
+              "title": "Điều 34 27/2018/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 34"
+            },
+            "score": 0.397207254995553,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_521188",
+            "source_id": "legal_521188",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Hồ sơ lâm sản sau xử lý tịch thu 1. Bản chính hợp đồng mua bán tài sản đấu giá. 2. Hóa đơn theo quy định của Bộ Tài chính. 3. Bản chính bảng kê lâm sản do cơ quan bán lập. Mục 2. HỒ SƠ LÂM SẢN MUA BÁN, VẬN CHUYỂN TRONG NƯỚC",
+            "metadata": {
+              "title": "Điều 18 27/2018/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 18"
+            },
+            "score": 0.35295879900263555,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_61",
+            "source_id": "legal_61",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Kết luận và kiến nghị 1. Kết luận (Căn cứ các tài liệu minh chứng, các thông tin khoa học đưa ra kết luận khẳng định hay không khẳng định thực vật biến đổi gen …. an toàn như thực phẩm/thức ăn chăn nuôi truyền thống tương đương) a) Đánh giá Hồ sơ: Đạt yêu cầu, không cần chỉnh sửa, bổ sung □ b) Đánh giá Hồ sơ: Đạt yêu cầu với điều kiện phải chỉnh sửa, bổ sung (Nêu rõ nội dung cần chỉnh sửa, bổ sung) □ c) Đánh giá Hồ sơ: Không đạt yêu cầu □ 2. Kiến nghị Kiến nghị Bộ Nông nghiệp và Phát triển nông thôn cấp/không cấp Giấy xác nhận............ đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi; các điều kiện đối với việc cấp Giấy xác nhận (nếu có). …………………………………………………………………………………………………… …………………………………………………………………………………………………… Người nhận xét (Ký và ghi rõ họ, tên) Phụ lục 8. Mẫu phiếu đánh giá hồ sơ đăng ký cấp Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi (Ban hành kèm theo Thông tư số: 02/2014/TT-BNNPTNT, ngày 24/01/2014 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn) BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN HỘI ĐỒNG AN TOÀN THỰC PHẨM, THỨC ĂN CHĂN NUÔI BIẾN ĐỔI GEN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Hà Nội, ngày tháng năm 20… Phiếu đánh giá hồ sơ đăng ký cấp Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Ủy viên phản biện: □ Uỷ viên: □ I. Thông tin chung về hồ sơ 1. Tên tổ chức, cá nhân đăng ký: 2. Tên sinh vật chuyển gen: - Tên thông thường: - Tên khoa học: - Tên thương mại: - Sự kiện chuyển gen: - Mã nhận diện duy nhất (nếu có): 3. Mã số hồ sơ: II. Thông tin về thành viên Hội đồng 1. Họ và tên (chức danh khoa học, học vị): 2. Cơ quan công tác: 3. Chức vụ: III. Kết luận và kiến nghị 1.",
+            "metadata": {
+              "title": "Điều 18 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 18"
+            },
+            "score": 0.2038935938507357,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[B_legal_521188 | legal_truncated_corpus.csv | page Điều 18]\nĐiều 18 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Hồ sơ lâm sản sau xử lý tịch thu 1. Bản chính hợp đồng mua bán tài sản đấu giá. 2. Hóa đơn theo quy định của Bộ Tài chính. 3. Bản chính bảng kê lâm sản do cơ quan bán lập. Mục 2. HỒ SƠ LÂM SẢN MUA BÁN, VẬN CHUYỂN TRONG NƯỚC",
+        "context_ids": [
+          "B_legal_521188"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 9.97
+  },
+  {
+    "query_id": "q_14",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "nhiệm vụ thiết kế BVTC nội dung, đơn vị lập, thẩm quyền phê duyệt",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_83644",
+            "source_id": "legal_83644",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 46/2015/NĐ-CP về quản lý chất lượng và bảo trì công trình xây dựng Nhiệm vụ thiết kế xây dựng công trình 1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập nhiệm vụ thiết kế xây dựng công trình. 2. Nhiệm vụ thiết kế xây dựng công trình phải phù hợp với báo cáo nghiên cứu tiền khả thi hoặc báo cáo đề xuất chủ trương đầu tư xây dựng công trình. Nhiệm vụ thiết kế xây dựng công trình là căn cứ để lập dự án đầu tư xây dựng công trình, lập thiết kế xây dựng công trình. Chủ đầu tư có thể thuê tổ chức tư vấn, chuyên gia góp ý hoặc thẩm tra nhiệm vụ thiết kế khi cần thiết 3. Nội dung chính của nhiệm vụ thiết kế xây dựng công trình bao gồm: a) Các căn cứ để lập nhiệm vụ thiết kế xây dựng công trình; b) Mục tiêu xây dựng công trình; c) Địa điểm xây dựng công trình; d) Các yêu cầu về quy hoạch, cảnh quan và kiến trúc của công trình; đ) Các yêu cầu về quy mô và thời hạn sử dụng công trình, công năng sử dụng và các yêu cầu kỹ thuật khác đối với công trình. 4. Nhiệm vụ thiết kế xây dựng công trình được bổ sung, sửa đổi cho phù hợp với điều kiện thực tế để đảm bảo hiệu quả dự án đầu tư xây dựng công trình.",
+            "metadata": {
+              "title": "Điều 18 46/2015/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 18"
+            },
+            "score": 0.2633775458636195,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_516494",
+            "source_id": "legal_516494",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 9",
+            "text": "Điều 9 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng Hồ sơ đề nghị chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp 1. Văn bản của tổ chức tín dụng phi ngân hàng đề nghị Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước) chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp theo mẫu Phụ lục ban hành kèm theo Thông tư này. 2. Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên của tổ chức tín dụng phi ngân hàng về việc thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp hoặc văn bản của cấp có thẩm quyền khác theo quy định tại Điều lệ của tổ chức tín dụng phi ngân hàng. 3. Đề án thành lập chi nhánh, trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tên viết tắt bằng tiếng Việt, địa chỉ trụ sở, nội dung hoạt động; b) Lý do thành lập và lựa chọn địa bàn thành lập; c) Cơ cấu tổ chức: sơ đồ tổ chức của chi nhánh, dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn); đ) Nghiên cứu khả thi: phân tích môi trường kinh doanh, thị trường mục tiêu, các cơ hội kinh doanh và kế hoạch chiếm lĩnh thị trường; đ) Phương án kinh doanh dự kiến trong 03 năm đầu, trong đó tối thiểu bao gồm: dự kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; căn cứ xây dựng phương án và thuyết minh khả năng thực hiện phương án trong từng năm. 4. Đề án thành lập văn phòng đại diện, đơn vị sự nghiệp trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tiếng nước ngoài (nếu có); tên viết tắt bằng tiếng Việt, tiếng nước ngoài (nếu có); địa chỉ; nội dung hoạt động; b) Lý do, nhu cầu thành lập; c) Dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn, người đứng đầu văn phòng đại diện, đơn vị sự nghiệp); d) Kế hoạch hoạt động dự kiến trong 03 năm đầu.",
+            "metadata": {
+              "title": "Điều 9 53/2018/TT-NHNN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 9"
+            },
+            "score": 0.16801961101896043,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_319",
+            "source_id": "legal_319",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 6",
+            "text": "Điều 6 46/2011/TT-BNNPTNT quy định về trình tự thực hiện việc chấp thuận, thẩm định các hoạt động liên quan đến đê điều Trình tự thực hiện thẩm định Các hoạt động quy định tại khoản 3 Điều 1 Thông tư này, trình tự thực hiện thẩm định như sau: 1. Cơ quan, tổ chức, cá nhân đề nghị thẩm định gửi 02 bộ hồ sơ (01bộ chính và 01 bộ sao chụp) trực tiếp hoặc qua hệ thống bưu chính đến Tổng cục Thuỷ lợi thuộc Bộ Nông nghiệp và Phát triển nông thôn, hồ sơ bao gồm các tài liệu sau: a) Tờ trình của Ủy ban nhân dân cấp tỉnh theo mẫu tại Phụ lục ban hành kèm theo Thông tư này; b) Ý kiến bằng văn bản của Sở Nông nghiệp và Phát triển nông thôn trình Uỷ ban nhân dân cấp tỉnh về đề nghị của Chủ đầu tư; c) Hồ sơ dự án gồm: Thuyết minh, thiết kế cơ sở, phụ lục tính toán, trong đó thể hiện những nội dung liên quan đến quy hoạch phòng chống lũ của tuyến sông có đê, quy hoạch đê điều, quy hoạch sử dụng đất, quy hoạch xây dựng được phê duyệt và kết quả tính toán đáp ứng theo yêu cầu về an toàn đê điều, thoát lũ theo quy định tại khoản 3, Điều 26 Luật Đê điều và Điều 5 Nghị định 113/2007/NĐ-CP ngày 28/6/2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đê điều; d) Văn bản khác có liên quan đến việc xây dựng, thực hiện dự án (nếu có); đ) Văn bản thẩm tra của đơn vị tư vấn độc lập về sự ảnh hưởng của công trình đến an toàn đê điều và thoát lũ lòng sông, cụ thể về sự giảm lưu lượng lũ thiết kế; tăng mực nước lũ thiết kế; ảnh hưởng đến dòng chảy khu vực lân cận, thượng lưu, hạ lưu; ổn định lòng dẫn; ổn định thân đê, nền đê khu vực xây dựng công trình; e) Đối với công trình mà phạm vi ảnh hưởng từ hai tỉnh trở lên phải có ý kiến bằng văn bản của Uỷ ban nhân dân cấp tỉnh liên quan; 2.",
+            "metadata": {
+              "title": "Điều 6 46/2011/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 6"
+            },
+            "score": 0.1665987675500598,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 12.16
+  },
+  {
+    "query_id": "q_18",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "các trường hợp thu hồi giấy phép vũ khí thể thao",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_7477",
+            "source_id": "legal_7477",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ Thu hồi vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ và giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ 1. Vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ trang bị cho cơ quan, tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Cơ quan, tổ chức, doanh nghiệp giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; b) Vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ không còn nhu cầu sử dụng, hết hạn sử dụng hoặc không còn khả năng sử dụng; c) Không thuộc đối tượng được trang bị theo quy định của Luật này. 2. Giấy phép, giấy xác nhận về vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ đã cấp cho cơ quan, tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Trường hợp quy định tại khoản 1 Điều này; b) Vũ khí, công cụ hỗ trợ bị mất; c) Tổ chức, doanh nghiệp sản xuất, kinh doanh, sửa chữa vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; d) Giấy phép, giấy xác nhận cấp không đúng thẩm quyền. 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khác, nghỉ hưu, thôi việc hoặc không còn đủ điều kiện theo quy định. Cơ quan quản lý trực tiếp có trách nhiệm thu hồi giấy chứng nhận, chứng chỉ và nộp cho cơ quan có thẩm quyền đã cấp.",
+            "metadata": {
+              "title": "Điều 10 14/2017/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 10"
+            },
+            "score": 0.5082666994575133,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_7478",
+            "source_id": "legal_7478",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khác, nghỉ hưu, thôi việc hoặc không còn đủ điều kiện theo quy định. Cơ quan quản lý trực tiếp có trách nhiệm thu hồi giấy chứng nhận, chứng chỉ và nộp cho cơ quan có thẩm quyền đã cấp. 4. Giấy phép, giấy chứng nhận về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ đã cấp cho tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Tổ chức, doanh nghiệp sản xuất, kinh doanh, vận chuyển, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; b) Chấm dứt hoạt động về vật liệu nổ công nghiệp, tiền chất thuốc nổ; c) Không bảo đảm điều kiện về sản xuất, kinh doanh, vận chuyển, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ theo quy định của Luật này; không đáp ứng đầy đủ hoặc không thực hiện đúng nội dung quy định trong giấy phép, giấy chứng nhận; d) Giấy phép, giấy chứng nhận cấp không đúng thẩm quyền; đ) Không tiến hành kinh doanh vật liệu nổ công nghiệp, tiền chất thuốc nổ trong thời gian 06 tháng kể từ ngày được cấp giấy phép kinh doanh. 5. Giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ bị hư hỏng, hết hạn sử dụng phải giao nộp cho cơ quan có thẩm quyền đã cấp để được cấp lại, cấp đổi.",
+            "metadata": {
+              "title": "Điều 10 14/2017/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 10"
+            },
+            "score": 0.25089206265482394,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_34",
+            "source_id": "legal_34",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Thu hồi Giấy xác nhận 1. Giấy xác nhận bị xem xét thu hồi trong các trường hợp quy định tại khoản 1 Điều 29 và khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP ngày 21/6/2010 của Chính phủ về an toàn sinh học đối với sinh vật biến đổi gen, mẫu vật di truyền và sản phẩm của sinh vật biến đổi gen (gọi tắt là Nghị định 69/2010/NĐ-CP). 2. Căn cứ từng trường hợp cụ thể Bộ Nông nghiệp và Phát triển nông thôn xem xét, quyết định việc thu hồi Giấy xác nhận. a) Đối với các trường hợp quy định tại điểm a, điểm b khoản 1 Điều 29 và điểm a, điểm b khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP Bộ Nông nghiệp và Phát triển nông thôn tổ chức Hội đồng để thẩm định hồ sơ và xem xét việc thu hồi Giấy xác nhận; b) Đối với các trường hợp quy định tại điểm c khoản 1 Điều 29 và điểm c khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP, Vụ Khoa học, Công nghệ và Môi trường trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn xem xét, quyết định. 3. Vụ Khoa học, Công nghệ và Môi trường thực hiện các nhiệm vụ sau: a) Tổ chức các cuộc họp Hội đồng hoặc hội đồng tư vấn độc lập (trong trường hợp vi phạm theo quy định tại điểm c khoản 1 Điều 29 và điểm c khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP) thẩm định hồ sơ việc thu hồi Giấy xác nhận đối với các trường hợp vi phạm; b) Căn cứ kết quả thẩm định của Hội đồng, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn xem xét, ra quyết định thu hồi Giấy xác nhận; c) Thông báo trên các phương tiện thông tin đại chúng và các cơ quan liên quan trong thời gian không quá 03 (ba) ngày kể từ ngày có quyết định thu hồi Giấy xác nhận, và gửi Quyết định (bản chính) cho tổ chức, cá nhân bị thu hồi Giấy xác nhận.",
+            "metadata": {
+              "title": "Điều 10 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.18550339499548427,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 4.73
+  },
+  {
+    "query_id": "q_23",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "vũ khí thể thao thu hồi trong các trường hợp nào pháp luật Việt Nam",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_7477",
+            "source_id": "legal_7477",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ Thu hồi vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ và giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ 1. Vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ trang bị cho cơ quan, tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Cơ quan, tổ chức, doanh nghiệp giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; b) Vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ không còn nhu cầu sử dụng, hết hạn sử dụng hoặc không còn khả năng sử dụng; c) Không thuộc đối tượng được trang bị theo quy định của Luật này. 2. Giấy phép, giấy xác nhận về vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ đã cấp cho cơ quan, tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Trường hợp quy định tại khoản 1 Điều này; b) Vũ khí, công cụ hỗ trợ bị mất; c) Tổ chức, doanh nghiệp sản xuất, kinh doanh, sửa chữa vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; d) Giấy phép, giấy xác nhận cấp không đúng thẩm quyền. 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khác, nghỉ hưu, thôi việc hoặc không còn đủ điều kiện theo quy định. Cơ quan quản lý trực tiếp có trách nhiệm thu hồi giấy chứng nhận, chứng chỉ và nộp cho cơ quan có thẩm quyền đã cấp.",
+            "metadata": {
+              "title": "Điều 10 14/2017/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 10"
+            },
+            "score": 0.4075155060359204,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_3",
+            "source_id": "legal_3",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 4",
+            "text": "Điều 4 01/2014/NQLT/CP-UBTƯMTTQVN hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở Tổ chức phổ biến, vận động nhân dân thực hiện pháp luật về hòa giải ở cơ sở 1. Ủy ban Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận các cấp phổ biến, vận động nhân dân tại cộng đồng dân cư thực hiện pháp luật về hòa giải ở cơ sở, giải quyết các mâu thuẫn, tranh chấp, vi phạm pháp luật ở cơ sở bằng biện pháp hòa giải. 2. Bộ Tư pháp, Ủy ban nhân dân các cấp hỗ trợ Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận về tài liệu phục vụ công tác hòa giải ở cơ sở; bồi dưỡng, tập huấn cho báo cáo viên pháp luật của Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận các cấp để thực hiện công tác phổ biến, vận động nhân dân chấp hành pháp luật về hòa giải ở cơ sở.",
+            "metadata": {
+              "title": "Điều 4 01/2014/NQLT/CP-UBTƯMTTQVN",
+              "loai_vb": "Văn bản khác",
+              "dieu": "Điều 4"
+            },
+            "score": 0.167775781927221,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_7478",
+            "source_id": "legal_7478",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khác, nghỉ hưu, thôi việc hoặc không còn đủ điều kiện theo quy định. Cơ quan quản lý trực tiếp có trách nhiệm thu hồi giấy chứng nhận, chứng chỉ và nộp cho cơ quan có thẩm quyền đã cấp. 4. Giấy phép, giấy chứng nhận về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ đã cấp cho tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Tổ chức, doanh nghiệp sản xuất, kinh doanh, vận chuyển, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; b) Chấm dứt hoạt động về vật liệu nổ công nghiệp, tiền chất thuốc nổ; c) Không bảo đảm điều kiện về sản xuất, kinh doanh, vận chuyển, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ theo quy định của Luật này; không đáp ứng đầy đủ hoặc không thực hiện đúng nội dung quy định trong giấy phép, giấy chứng nhận; d) Giấy phép, giấy chứng nhận cấp không đúng thẩm quyền; đ) Không tiến hành kinh doanh vật liệu nổ công nghiệp, tiền chất thuốc nổ trong thời gian 06 tháng kể từ ngày được cấp giấy phép kinh doanh. 5. Giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ bị hư hỏng, hết hạn sử dụng phải giao nộp cho cơ quan có thẩm quyền đã cấp để được cấp lại, cấp đổi.",
+            "metadata": {
+              "title": "Điều 10 14/2017/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 10"
+            },
+            "score": 0.16245166007706288,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 10.66
+  },
+  {
+    "query_id": "q_27",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "vũ khí quân dụng thu hồi trong các trường hợp nào",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_7477",
+            "source_id": "legal_7477",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ Thu hồi vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ và giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ 1. Vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ trang bị cho cơ quan, tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Cơ quan, tổ chức, doanh nghiệp giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; b) Vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ không còn nhu cầu sử dụng, hết hạn sử dụng hoặc không còn khả năng sử dụng; c) Không thuộc đối tượng được trang bị theo quy định của Luật này. 2. Giấy phép, giấy xác nhận về vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ đã cấp cho cơ quan, tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Trường hợp quy định tại khoản 1 Điều này; b) Vũ khí, công cụ hỗ trợ bị mất; c) Tổ chức, doanh nghiệp sản xuất, kinh doanh, sửa chữa vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; d) Giấy phép, giấy xác nhận cấp không đúng thẩm quyền. 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khác, nghỉ hưu, thôi việc hoặc không còn đủ điều kiện theo quy định. Cơ quan quản lý trực tiếp có trách nhiệm thu hồi giấy chứng nhận, chứng chỉ và nộp cho cơ quan có thẩm quyền đã cấp.",
+            "metadata": {
+              "title": "Điều 10 14/2017/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 10"
+            },
+            "score": 0.5127789472841723,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_7478",
+            "source_id": "legal_7478",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khác, nghỉ hưu, thôi việc hoặc không còn đủ điều kiện theo quy định. Cơ quan quản lý trực tiếp có trách nhiệm thu hồi giấy chứng nhận, chứng chỉ và nộp cho cơ quan có thẩm quyền đã cấp. 4. Giấy phép, giấy chứng nhận về quản lý, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ đã cấp cho tổ chức, doanh nghiệp được thu hồi trong trường hợp sau đây: a) Tổ chức, doanh nghiệp sản xuất, kinh doanh, vận chuyển, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ giải thể, chuyển đổi, chia, tách, hợp nhất, sáp nhập; b) Chấm dứt hoạt động về vật liệu nổ công nghiệp, tiền chất thuốc nổ; c) Không bảo đảm điều kiện về sản xuất, kinh doanh, vận chuyển, sử dụng vật liệu nổ công nghiệp, tiền chất thuốc nổ theo quy định của Luật này; không đáp ứng đầy đủ hoặc không thực hiện đúng nội dung quy định trong giấy phép, giấy chứng nhận; d) Giấy phép, giấy chứng nhận cấp không đúng thẩm quyền; đ) Không tiến hành kinh doanh vật liệu nổ công nghiệp, tiền chất thuốc nổ trong thời gian 06 tháng kể từ ngày được cấp giấy phép kinh doanh. 5. Giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ bị hư hỏng, hết hạn sử dụng phải giao nộp cho cơ quan có thẩm quyền đã cấp để được cấp lại, cấp đổi.",
+            "metadata": {
+              "title": "Điều 10 14/2017/QH14",
+              "loai_vb": "Luật",
+              "dieu": "Điều 10"
+            },
+            "score": 0.16423910174034967,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_42",
+            "source_id": "legal_42",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 16",
+            "text": "Điều 16 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Trách nhiệm của Vụ Khoa học, Công nghệ và Môi trường 1. Chủ trì, phối hợp với các cơ quan, đơn vị liên quan tổ chức, thực hiện Thông tư này.2. Phối hợp với cơ quan liên quan thu và sử dụng phí thẩm định hồ sơ theo các quy định pháp luật hiện hành. 3. Tổng hợp, báo cáo Bộ tình hình cấp, thu hồi Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi theo quy định.",
+            "metadata": {
+              "title": "Điều 16 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 16"
+            },
+            "score": 0.13549583962036915,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[B_legal_42 | legal_truncated_corpus.csv | page Điều 16]\nĐiều 16 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Trách nhiệm của Vụ Khoa học, Công nghệ và Môi trường 1. Chủ trì, phối hợp với các cơ quan, đơn vị liên quan tổ chức, thực hiện Thông tư này.2. Phối hợp với cơ quan liên quan thu và sử dụng phí thẩm định hồ sơ theo các quy định pháp luật hiện hành. 3. Tổng hợp, báo cáo Bộ tình hình cấp, thu hồi Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi theo quy định.",
+        "context_ids": [
+          "B_legal_42"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 6.79
+  },
+  {
+    "query_id": "q_31",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời gian thực hành trước khi cấp chứng chỉ hành nghề bác sĩ y sĩ hộ sinh viên điều dưỡng viên kỹ thuật viên",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_21825",
+            "source_id": "legal_21825",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 24",
+            "text": "Điều 24 40/2009/QH12 khám bệnh, chữa bệnh Xác nhận quá trình thực hành 1. Người có văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam, trước khi được cấp chứng chỉ hành nghề, phải qua thời gian thực hành tại cơ sở khám bệnh, chữa bệnh sau đây: a) 18 tháng thực hành tại bệnh viện, viện nghiên cứu có giường bệnh (sau đây gọi chung là bệnh viện) đối với bác sỹ; b) 12 tháng thực hành tại bệnh viện đối với y sỹ; c) 09 tháng thực hành tại bệnh viện có khoa phụ sản hoặc tại nhà hộ sinh đối với hộ sinh viên; d) 09 tháng thực hành tại cơ sở khám bệnh, chữa bệnh đối với điều dưỡng viên, kỹ thuật viên. 2. Người đứng đầu cơ sở khám bệnh, chữa bệnh có trách nhiệm xác nhận bằng văn bản về quá trình thực hành cho người đã thực hành tại cơ sở của mình, bao gồm nội dung về thời gian, năng lực chuyên môn, đạo đức nghề nghiệp.",
+            "metadata": {
+              "title": "Điều 24 40/2009/QH12",
+              "loai_vb": "Luật",
+              "dieu": "Điều 24"
+            },
+            "score": 0.30387095852472185,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_12",
+            "source_id": "legal_12",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 12",
+            "text": "Điều 12 01/2014/NQLT/CP-UBTƯMTTQVN hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở Bầu hòa giải viên 1. Chuẩn bị bầu hòa giải viên: a) Trong thời hạn 20 ngày, trước ngày dự kiến bầu hòa giải viên, Trưởng ban công tác Mặt trận chủ trì, phối hợp với trưởng thôn, tổ trưởng tổ dân phố, đại diện các tổ chức thành viên của Mặt trận dự kiến những người được bầu làm hòa giải viên; thống nhất thời gian bầu hòa giải viên; quyết định hình thức bầu hòa giải viên; quyết định danh sách Tổ bầu hòa giải viên do Trưởng ban công tác Mặt trận làm tổ trưởng, trưởng thôn, tổ trưởng tổ dân phố làm phó tổ trưởng, một số trưởng các chi, tổ, hội của thôn, tổ dân phố là thành viên. Tổ bầu hòa giải viên lập danh sách những người dự kiến bầu làm hòa giải viên (sau đây gọi tắt là danh sách bầu hòa giải viên) sau khi đã trao đổi, động viên và nhận được sự đồng ý của những người được giới thiệu bầu làm hòa giải viên. Trường hợp thành lập Tổ hòa giải mới, danh sách bầu hòa giải viên ít nhất bằng với số lượng hòa giải viên đã được Chủ tịch Ủy ban nhân dân cấp xã quyết định, trong đó có hòa giải viên nữ. Đối với vùng có nhiều đồng bào dân tộc thiểu số, danh sách bầu hòa giải viên phải có người dân tộc thiểu số; b) Danh sách bầu hòa giải viên được thông báo công khai tại thôn, tổ dân phố trong thời hạn 07 ngày, trước ngày bầu hòa giải viên. Trường hợp có ý kiến phản ánh về danh sách bầu hòa giải viên, thì Trưởng ban công tác Mặt trận xem xét, giải quyết. 2. Tổ chức bầu hòa giải viên: a) Việc bầu hòa giải viên bằng hình thức biểu quyết công khai hoặc bỏ phiếu kín tại cuộc họp được tiến hành khi có trên 50% đại diện các hộ gia đình trong thôn, tổ dân phố trở lên tham dự và thực hiện như sau: Đại diện Tổ bầu hòa giải viên giới thiệu danh sách Tổ bầu hòa giải viên; tiêu chuẩn của hòa giải viên; danh sách bầu hòa giải viên; thống nhất hình thức bầu hòa giải viên tại cuộc họp.",
+            "metadata": {
+              "title": "Điều 12 01/2014/NQLT/CP-UBTƯMTTQVN",
+              "loai_vb": "Văn bản khác",
+              "dieu": "Điều 12"
+            },
+            "score": 0.21451668899268744,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_630493",
+            "source_id": "legal_630493",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 2",
+            "text": "Điều 2 30/2011/TT-BTTTT quy định về chứng nhận hợp quy và công bố hợp quy đối với sản phẩm, hàng hóa chuyên ngành công nghệ thông tin về truyền thông Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Chứng nhận hợp quy là việc xác nhận sản phẩm phù hợp với quy chuẩn kỹ thuật do Bộ Thông tin và Truyền thông ban hành và/hoặc tiêu chuẩn do Bộ Thông tin và Truyền thông quy định bắt buộc áp dụng (sau đây gọi chung là quy chuẩn kỹ thuật) nhằm bảo đảm tính tương thích của sản phẩm trong kết nối, an toàn mạng viễn thông quốc gia, an ninh thông tin, bảo đảm các yêu cầu về tương thích điện từ trường, sử dụng có hiệu quả và tiết kiệm tài nguyên phổ tần số vô tuyến điện, an toàn cho con người và môi trường, bảo vệ quyền lợi của người sử dụng. 2. Công bố hợp quy là việc tổ chức, cá nhân công bố với cơ quan quản lý nhà nước và người tiêu dùng về sự phù hợp của sản phẩm với quy chuẩn kỹ thuật tương ứng sau khi thực hiện quá trình đánh giá sự phù hợp. 3. Đo kiếm sản phẩm là việc xác định một hay nhiều đặc tính kỹ thuật của sản phẩm theo quy chuẩn kỹ thuật tương ứng. 4. Tổ chức chứng nhận hợp quy là đơn vị sự nghiệp hoạt động dịch vụ kỹ thuật được Bộ Thông tin và Truyền thông giao trách nhiệm thực hiện công tác chứng nhận hợp quy. 5. Đơn vị đo kiểm là đơn vị có năng lực thực hiện được việc đo kiểm các đặc tính kỹ thuật của sản phẩm theo quy chuẩn kỹ thuật tương ứng. 6. Đơn vị đo kiểm được chỉ định là đơn vị đo kiểm được Bộ Thông tin và Truyền thông chỉ định để thực hiện đo kiểm phục vụ chứng nhận và công bố hợp quy. 7. Đơn vị đo kiểm được thừa nhận là đơn vị đo kiểm nước ngoài được Bộ Thông tin và Truyền thông thừa nhận trong khuôn khổ thỏa thuận thừa nhận lẫn nhau. 8. Đơn vị đo kiểm được công nhận là đơn vị đo kiểm đủ năng lực thực hiện đo kiểm phục vụ công bố hợp quy và được công nhận bởi Tổ chức công nhận có thẩm quyền.",
+            "metadata": {
+              "title": "Điều 2 30/2011/TT-BTTTT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 2"
+            },
+            "score": 0.21268613119835658,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 8.03
+  },
+  {
+    "query_id": "q_35",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "hồ sơ gửi Bộ Nông nghiệp và Phát triển nông thôn đề nghị thẩm định sử dụng bãi sông chưa có công trình xây dựng tài liệu cần chuẩn bị",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_41",
+            "source_id": "legal_41",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 15",
+            "text": "Điều 15 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Trách nhiệm, quyền hạn của các thành viên Hội đồng 1. Nghiên cứu hồ sơ đăng ký cấp, thu hồi Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi và các tài liệu liên quan do Bộ Nông nghiệp và Phát triển nông thôn cung cấp. 2. Tham gia đầy đủ các cuộc họp của Hội đồng trong quá trình thẩm định hồ sơ; có ý kiến nhận xét bằng văn bản theo mẫu quy định tại Thông tư này và các ý kiến nhận xét khác theo đề nghị của Bộ Nông nghiệp và Phát triển nông thôn. 3. Quản lý các tài liệu được cung cấp, đảm bảo không thất thoát, không chuyển thông tin cho bên thứ ba và nộp lại các tài liệu này theo yêu cầu của Bộ Nông nghiệp và Phát triển nông thôn sau khi hoàn thành nhiệm vụ. 4. Đánh giá, thẩm định hồ sơ một cách khách quan, độc lập, trên cơ sở khoa học và sẵn sàng trao đổi với cộng đồng về những ý kiến đánh giá khoa học của mình. 5. Được hưởng thù lao theo quy định của pháp luật hiện hành.",
+            "metadata": {
+              "title": "Điều 15 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 15"
+            },
+            "score": 0.3787143172397408,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_83644",
+            "source_id": "legal_83644",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 46/2015/NĐ-CP về quản lý chất lượng và bảo trì công trình xây dựng Nhiệm vụ thiết kế xây dựng công trình 1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập nhiệm vụ thiết kế xây dựng công trình. 2. Nhiệm vụ thiết kế xây dựng công trình phải phù hợp với báo cáo nghiên cứu tiền khả thi hoặc báo cáo đề xuất chủ trương đầu tư xây dựng công trình. Nhiệm vụ thiết kế xây dựng công trình là căn cứ để lập dự án đầu tư xây dựng công trình, lập thiết kế xây dựng công trình. Chủ đầu tư có thể thuê tổ chức tư vấn, chuyên gia góp ý hoặc thẩm tra nhiệm vụ thiết kế khi cần thiết 3. Nội dung chính của nhiệm vụ thiết kế xây dựng công trình bao gồm: a) Các căn cứ để lập nhiệm vụ thiết kế xây dựng công trình; b) Mục tiêu xây dựng công trình; c) Địa điểm xây dựng công trình; d) Các yêu cầu về quy hoạch, cảnh quan và kiến trúc của công trình; đ) Các yêu cầu về quy mô và thời hạn sử dụng công trình, công năng sử dụng và các yêu cầu kỹ thuật khác đối với công trình. 4. Nhiệm vụ thiết kế xây dựng công trình được bổ sung, sửa đổi cho phù hợp với điều kiện thực tế để đảm bảo hiệu quả dự án đầu tư xây dựng công trình.",
+            "metadata": {
+              "title": "Điều 18 46/2015/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 18"
+            },
+            "score": 0.35085108239021373,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_319",
+            "source_id": "legal_319",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 6",
+            "text": "Điều 6 46/2011/TT-BNNPTNT quy định về trình tự thực hiện việc chấp thuận, thẩm định các hoạt động liên quan đến đê điều Trình tự thực hiện thẩm định Các hoạt động quy định tại khoản 3 Điều 1 Thông tư này, trình tự thực hiện thẩm định như sau: 1. Cơ quan, tổ chức, cá nhân đề nghị thẩm định gửi 02 bộ hồ sơ (01bộ chính và 01 bộ sao chụp) trực tiếp hoặc qua hệ thống bưu chính đến Tổng cục Thuỷ lợi thuộc Bộ Nông nghiệp và Phát triển nông thôn, hồ sơ bao gồm các tài liệu sau: a) Tờ trình của Ủy ban nhân dân cấp tỉnh theo mẫu tại Phụ lục ban hành kèm theo Thông tư này; b) Ý kiến bằng văn bản của Sở Nông nghiệp và Phát triển nông thôn trình Uỷ ban nhân dân cấp tỉnh về đề nghị của Chủ đầu tư; c) Hồ sơ dự án gồm: Thuyết minh, thiết kế cơ sở, phụ lục tính toán, trong đó thể hiện những nội dung liên quan đến quy hoạch phòng chống lũ của tuyến sông có đê, quy hoạch đê điều, quy hoạch sử dụng đất, quy hoạch xây dựng được phê duyệt và kết quả tính toán đáp ứng theo yêu cầu về an toàn đê điều, thoát lũ theo quy định tại khoản 3, Điều 26 Luật Đê điều và Điều 5 Nghị định 113/2007/NĐ-CP ngày 28/6/2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đê điều; d) Văn bản khác có liên quan đến việc xây dựng, thực hiện dự án (nếu có); đ) Văn bản thẩm tra của đơn vị tư vấn độc lập về sự ảnh hưởng của công trình đến an toàn đê điều và thoát lũ lòng sông, cụ thể về sự giảm lưu lượng lũ thiết kế; tăng mực nước lũ thiết kế; ảnh hưởng đến dòng chảy khu vực lân cận, thượng lưu, hạ lưu; ổn định lòng dẫn; ổn định thân đê, nền đê khu vực xây dựng công trình; e) Đối với công trình mà phạm vi ảnh hưởng từ hai tỉnh trở lên phải có ý kiến bằng văn bản của Uỷ ban nhân dân cấp tỉnh liên quan; 2.",
+            "metadata": {
+              "title": "Điều 6 46/2011/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 6"
+            },
+            "score": 0.3048655493820767,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 7.17
+  },
+  {
+    "query_id": "q_42",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "hồ sơ dự án công trình xây dựng bãi sông chưa có công trình theo dự án đầu tư Thủ tướng phê duyệt gửi Bộ Nông nghiệp và Phát triển nông thôn thẩm định nội dung",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_83644",
+            "source_id": "legal_83644",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 46/2015/NĐ-CP về quản lý chất lượng và bảo trì công trình xây dựng Nhiệm vụ thiết kế xây dựng công trình 1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập nhiệm vụ thiết kế xây dựng công trình. 2. Nhiệm vụ thiết kế xây dựng công trình phải phù hợp với báo cáo nghiên cứu tiền khả thi hoặc báo cáo đề xuất chủ trương đầu tư xây dựng công trình. Nhiệm vụ thiết kế xây dựng công trình là căn cứ để lập dự án đầu tư xây dựng công trình, lập thiết kế xây dựng công trình. Chủ đầu tư có thể thuê tổ chức tư vấn, chuyên gia góp ý hoặc thẩm tra nhiệm vụ thiết kế khi cần thiết 3. Nội dung chính của nhiệm vụ thiết kế xây dựng công trình bao gồm: a) Các căn cứ để lập nhiệm vụ thiết kế xây dựng công trình; b) Mục tiêu xây dựng công trình; c) Địa điểm xây dựng công trình; d) Các yêu cầu về quy hoạch, cảnh quan và kiến trúc của công trình; đ) Các yêu cầu về quy mô và thời hạn sử dụng công trình, công năng sử dụng và các yêu cầu kỹ thuật khác đối với công trình. 4. Nhiệm vụ thiết kế xây dựng công trình được bổ sung, sửa đổi cho phù hợp với điều kiện thực tế để đảm bảo hiệu quả dự án đầu tư xây dựng công trình.",
+            "metadata": {
+              "title": "Điều 18 46/2015/NĐ-CP",
+              "loai_vb": "Nghị định",
+              "dieu": "Điều 18"
+            },
+            "score": 0.3841644957733578,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_319",
+            "source_id": "legal_319",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 6",
+            "text": "Điều 6 46/2011/TT-BNNPTNT quy định về trình tự thực hiện việc chấp thuận, thẩm định các hoạt động liên quan đến đê điều Trình tự thực hiện thẩm định Các hoạt động quy định tại khoản 3 Điều 1 Thông tư này, trình tự thực hiện thẩm định như sau: 1. Cơ quan, tổ chức, cá nhân đề nghị thẩm định gửi 02 bộ hồ sơ (01bộ chính và 01 bộ sao chụp) trực tiếp hoặc qua hệ thống bưu chính đến Tổng cục Thuỷ lợi thuộc Bộ Nông nghiệp và Phát triển nông thôn, hồ sơ bao gồm các tài liệu sau: a) Tờ trình của Ủy ban nhân dân cấp tỉnh theo mẫu tại Phụ lục ban hành kèm theo Thông tư này; b) Ý kiến bằng văn bản của Sở Nông nghiệp và Phát triển nông thôn trình Uỷ ban nhân dân cấp tỉnh về đề nghị của Chủ đầu tư; c) Hồ sơ dự án gồm: Thuyết minh, thiết kế cơ sở, phụ lục tính toán, trong đó thể hiện những nội dung liên quan đến quy hoạch phòng chống lũ của tuyến sông có đê, quy hoạch đê điều, quy hoạch sử dụng đất, quy hoạch xây dựng được phê duyệt và kết quả tính toán đáp ứng theo yêu cầu về an toàn đê điều, thoát lũ theo quy định tại khoản 3, Điều 26 Luật Đê điều và Điều 5 Nghị định 113/2007/NĐ-CP ngày 28/6/2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đê điều; d) Văn bản khác có liên quan đến việc xây dựng, thực hiện dự án (nếu có); đ) Văn bản thẩm tra của đơn vị tư vấn độc lập về sự ảnh hưởng của công trình đến an toàn đê điều và thoát lũ lòng sông, cụ thể về sự giảm lưu lượng lũ thiết kế; tăng mực nước lũ thiết kế; ảnh hưởng đến dòng chảy khu vực lân cận, thượng lưu, hạ lưu; ổn định lòng dẫn; ổn định thân đê, nền đê khu vực xây dựng công trình; e) Đối với công trình mà phạm vi ảnh hưởng từ hai tỉnh trở lên phải có ý kiến bằng văn bản của Uỷ ban nhân dân cấp tỉnh liên quan; 2.",
+            "metadata": {
+              "title": "Điều 6 46/2011/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 6"
+            },
+            "score": 0.3269129307856974,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_320",
+            "source_id": "legal_320",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 6",
+            "text": "Điều 6 46/2011/TT-BNNPTNT quy định về trình tự thực hiện việc chấp thuận, thẩm định các hoạt động liên quan đến đê điều Cơ quan, tổ chức, cá nhân đề nghị thẩm định gửi 02 bộ hồ sơ (01bộ chính và 01 bộ sao chụp) trực tiếp hoặc qua hệ thống bưu chính đến Tổng cục Thuỷ lợi thuộc Bộ Nông nghiệp và Phát triển nông thôn, hồ sơ bao gồm các tài liệu sau: a) Tờ trình của Ủy ban nhân dân cấp tỉnh theo mẫu tại Phụ lục ban hành kèm theo Thông tư này; b) Ý kiến bằng văn bản của Sở Nông nghiệp và Phát triển nông thôn trình Uỷ ban nhân dân cấp tỉnh về đề nghị của Chủ đầu tư; c) Hồ sơ dự án gồm: Thuyết minh, thiết kế cơ sở, phụ lục tính toán, trong đó thể hiện những nội dung liên quan đến quy hoạch phòng chống lũ của tuyến sông có đê, quy hoạch đê điều, quy hoạch sử dụng đất, quy hoạch xây dựng được phê duyệt và kết quả tính toán đáp ứng theo yêu cầu về an toàn đê điều, thoát lũ theo quy định tại khoản 3, Điều 26 Luật Đê điều và Điều 5 Nghị định 113/2007/NĐ-CP ngày 28/6/2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đê điều; d) Văn bản khác có liên quan đến việc xây dựng, thực hiện dự án (nếu có); đ) Văn bản thẩm tra của đơn vị tư vấn độc lập về sự ảnh hưởng của công trình đến an toàn đê điều và thoát lũ lòng sông, cụ thể về sự giảm lưu lượng lũ thiết kế; tăng mực nước lũ thiết kế; ảnh hưởng đến dòng chảy khu vực lân cận, thượng lưu, hạ lưu; ổn định lòng dẫn; ổn định thân đê, nền đê khu vực xây dựng công trình; e) Đối với công trình mà phạm vi ảnh hưởng từ hai tỉnh trở lên phải có ý kiến bằng văn bản của Uỷ ban nhân dân cấp tỉnh liên quan; 2. Trong thời hạn 30 (ba mươi) ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ theo quy định, Tổng cục Thuỷ lợi xem xét hồ sơ, có ý kiến thẩm định bằng văn bản và trả kết quả tại Tổng cục Thuỷ lợi hoặc qua hệ thống bưu chính.",
+            "metadata": {
+              "title": "Điều 6 46/2011/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 6"
+            },
+            "score": 0.3129571848839045,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 8.85
+  },
+  {
+    "query_id": "q_dev_unans_1",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Nghị định 100/2019/NĐ-CP mức xử phạt tiền tối đa vi phạm nồng độ cồn khi lái xe ô tô",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_87",
+            "source_id": "legal_87",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 13",
+            "text": "Điều 13 09/2016/TT-BNNPTNT quy định về kiểm soát giết mổ và kiểm tra vệ sinh thú y Quy định về xử lý đối với sản phẩm động vật không bảo đảm yêu cầu vệ sinh thú y 1. Các biện pháp xử lý bao gồm: Tiêu hủy; xử lý nhiệt; xử lý cơ học; chuyển mục đích sử dụng. 2. Hướng dẫn xử lý đối với sản phẩm động vật không bảo đảm yêu cầu vệ sinh thú y tại cơ sở giết mổ như sau: a) Sản phẩm động vật mang mầm bệnh truyền nhiễm phát hiện trong quá trình giết mổ xử lý theo hướng dẫn tại mục 2 của Phụ lục VI ban hành kèm theo Thông tư này; b) Sản phẩm động vật không bảo đảm yêu cầu về cảm quan xử lý theo hướng dẫn tại mục 3 của Phụ lục VI ban hành kèm theo Thông tư này; c) Sản phẩm động vật ô nhiễm vi sinh vật không được phép có hoặc vượt quá mức giới hạn cho phép xử lý theo hướng dẫn tại mục 4 của Phụ lục VI ban hành kèm theo Thông tư này; d) Sản phẩm động vật không bảo đảm yêu cầu về các chỉ tiêu tồn dư thuốc kháng sinh hoặc phát hiện tồn dư chất cấm, chất độc xử lý theo hướng dẫn tại mục 5 của Phụ lục VI ban hành kèm theo Thông tư này; đ) Sản phẩm động vật mang ký sinh trùng, ấu trùng của ký sinh trùng xử lý theo hướng dẫn tại mục 6 của Phụ lục VI ban hành kèm theo Thông tư này.",
+            "metadata": {
+              "title": "Điều 13 09/2016/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 13"
+            },
+            "score": 0.1754648013544328,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_34",
+            "source_id": "legal_34",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Thu hồi Giấy xác nhận 1. Giấy xác nhận bị xem xét thu hồi trong các trường hợp quy định tại khoản 1 Điều 29 và khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP ngày 21/6/2010 của Chính phủ về an toàn sinh học đối với sinh vật biến đổi gen, mẫu vật di truyền và sản phẩm của sinh vật biến đổi gen (gọi tắt là Nghị định 69/2010/NĐ-CP). 2. Căn cứ từng trường hợp cụ thể Bộ Nông nghiệp và Phát triển nông thôn xem xét, quyết định việc thu hồi Giấy xác nhận. a) Đối với các trường hợp quy định tại điểm a, điểm b khoản 1 Điều 29 và điểm a, điểm b khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP Bộ Nông nghiệp và Phát triển nông thôn tổ chức Hội đồng để thẩm định hồ sơ và xem xét việc thu hồi Giấy xác nhận; b) Đối với các trường hợp quy định tại điểm c khoản 1 Điều 29 và điểm c khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP, Vụ Khoa học, Công nghệ và Môi trường trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn xem xét, quyết định. 3. Vụ Khoa học, Công nghệ và Môi trường thực hiện các nhiệm vụ sau: a) Tổ chức các cuộc họp Hội đồng hoặc hội đồng tư vấn độc lập (trong trường hợp vi phạm theo quy định tại điểm c khoản 1 Điều 29 và điểm c khoản 1 Điều 34 của Nghị định 69/2010/NĐ-CP) thẩm định hồ sơ việc thu hồi Giấy xác nhận đối với các trường hợp vi phạm; b) Căn cứ kết quả thẩm định của Hội đồng, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn xem xét, ra quyết định thu hồi Giấy xác nhận; c) Thông báo trên các phương tiện thông tin đại chúng và các cơ quan liên quan trong thời gian không quá 03 (ba) ngày kể từ ngày có quyết định thu hồi Giấy xác nhận, và gửi Quyết định (bản chính) cho tổ chức, cá nhân bị thu hồi Giấy xác nhận.",
+            "metadata": {
+              "title": "Điều 10 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.13949193597412216,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_92",
+            "source_id": "legal_92",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 09/2016/TT-BNNPTNT quy định về kiểm soát giết mổ và kiểm tra vệ sinh thú y Mẫu dấu dùng để đóng trên thân thịt gia súc phải xử lý vệ sinh thú y 1. Dấu hình ô van, có kích thước: a) Vòng ngoài có bề rộng 80 mm, chiều cao 50 mm; b) Vòng trong có bề rộng 60 mm, chiều cao 30 mm; c) Đường ô van ngoài và đường ô van trong của dấu có bề rộng là 1 mm. 2. Khoảng cách giữa đường ô van trong và đường ô van ngoài của dấu như sau: a) Phía trên khắc chữ “CỤC THÚ Y”, chiều cao của chữ là 4 mm, bề rộng của nét chữ là 1 mm; b) Phía d­ưới khắc mã số của cơ sở giết mổ, chiều cao của chữ và số là 4mm, bề rộng của nét chữ và số là 1 mm; 3. Hình ô van phía trong của dấu khắc chữ “XỬ LÝ V.S.T.Y” (viết tắt của cụm từ xử lý vệ sinh thú y), chiều cao của chữ là 8 mm, bề rộng của nét chữ là 2 mm. 4. Mẫu dấu theo hướng dẫn như Hình 5 của Phụ lục IV ban hành kèm theo Thông tư này.",
+            "metadata": {
+              "title": "Điều 18 09/2016/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 18"
+            },
+            "score": 0.1173803446928158,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 12.56
+  },
+  {
+    "query_id": "q_dev_unans_2",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời sau khi đã vượt giới hạn tìm kiếm.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời hạn tối đa hợp đồng lao động xác định thời hạn Bộ luật Lao động 2019",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_569613",
+            "source_id": "legal_569613",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.3724264703952687,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_569616",
+            "source_id": "legal_569616",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 3. Người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Ốm đau nhưng không thuộc trường hợp quy định tại Điểm b Khoản 2 Điều này có xác nhận của cơ sở y tế có thẩm quyền; b) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền; c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn; d) Cha, mẹ, vợ/chồng, con của người lao động chết; người lao động hoặc con của người lao động kết hôn có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn. Các trường hợp không trực tiếp đến trung tâm dịch vụ việc làm thì chậm nhất trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của thời hạn thông báo hằng tháng về việc tìm kiếm việc làm theo quy định, người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. 4. Ngày người lao động thông báo hằng tháng về việc tìm kiếm việc làm được ghi cụ thể trong phụ lục quyết định hưởng trợ cấp thất nghiệp của người lao động như sau: a) Ngày của tháng thứ nhất hưởng trợ cấp thất nghiệp là ngày nhận quyết định hưởng trợ cấp thất nghiệp theo phiếu hẹn trả kết quả; b) Từ tháng thứ hai trở đi người lao động thực hiện ngày thông báo hằng tháng về việc tìm kiếm việc làm trong thời hạn 03 ngày làm việc kể từ ngày đầu tiên của tháng hưởng trợ cấp thất nghiệp.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.3164225592957789,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "B_legal_32",
+            "source_id": "legal_32",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 8",
+            "text": "Điều 8 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Tiếp nhận, thẩm định hồ sơ đăng ký cấp Giấy xác nhận 1. Tổ chức, cá nhân đăng ký cấp Giấy xác nhận gửi hồ sơ trực tiếp hoặc theo đường bưu điện đến cơ quan thường trực của Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường). 2. Vụ Khoa học, Công nghệ và Môi trường xem xét hồ sơ và thông báo bằng văn bản (theo mẫu quy định tại Phụ lục 5 của Thông tư này) cho tổ chức, cá nhân đăng ký trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ về việc chấp nhận hồ sơ hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian xem xét hồ sơ hợp lệ. 3. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường đăng tải thông tin và bản tóm tắt báo cáo đánh giá rủi ro trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn để lấy ý kiến công chúng; tổng hợp và gửi Hội đồng. Thời gian lấy ý kiến công chúng tối đa 30 (ba mươi) ngày, kể từ ngày thông tin được đăng tải. 4. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường tổ chức Hội đồng để đánh giá hồ sơ đăng ký cấp Giấy xác nhận trong thời hạn 30 (ba mươi) ngày đối với hồ sơ đăng ký theo khoản 1 Điều 6 của Thông tư này và 180 (một trăm tám mươi) ngày đối với hồ sơ đăng ký theo khoản 2 Điều 6 của Thông tư này.",
+            "metadata": {
+              "title": "Điều 8 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 8"
+            },
+            "score": 0.1530863837568576,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_seconds": 6.91
+  }
+]

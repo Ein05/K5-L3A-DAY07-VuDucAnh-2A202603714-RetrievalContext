@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q_0",
+    "split": "dev",
+    "question": "Chứng nhận hợp quy, công bố hợp quy đối với sản phẩm chuyên ngành CNTT&TT  là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_1",
+    "split": "dev",
+    "question": "Pháp luật nuôi con nuôi Việt Nam có quy định độ tuổi tối đa của người nước ngoài nhận trẻ em Việt Nam làm con nuôi không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_2",
+    "split": "dev",
+    "question": "Hồ sơ đề nghị chấp thuận thành lập chi nhánh của tổ chức tín dụng phi ngân hàng gồm những gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_4",
+    "split": "dev",
+    "question": "Tôi là người nước ngoài đến Việt Nam để du lịch từ đường biển, tôi có được phép mua hàng tại cửa hàng miễn thuế trên cảng biển không?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_6",
+    "split": "dev",
+    "question": "Người được bảo vệ theo quy định của Luật tố cáo có những nghĩa vụ gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_7",
+    "split": "dev",
+    "question": "Người được bảo vệ theo quy định của Luật tố cáo có những quyền gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_8",
+    "split": "dev",
+    "question": "Thủ tục cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_11",
+    "split": "dev",
+    "question": "Đề nghị cho biết các  thông tin cần đánh dấu mẫu vật đối với lâm sản và sản phẩm gỗ hoàn chỉnh được quy định như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_14",
+    "split": "dev",
+    "question": "Nhiệm vụ thiết kế BVTC gồm nội dung gì? đơn vị lập và thẩm quyền phê duyệt nhiệm vụ thiết kế BVTC?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_18",
+    "split": "dev",
+    "question": "Các trường hợp thu hồi giấy phép về vũ khí thể thao?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_23",
+    "split": "dev",
+    "question": "Vũ khí thể thao thu hồi trong các trường hợp nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_27",
+    "split": "dev",
+    "question": "Vũ khí quân dụng thu hồi trong các trường hợp nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_31",
+    "split": "dev",
+    "question": "Xác nhận thời gian thực hành đối với bác sỹ, y sỹ, hộ sinh viên, điều dưỡng viên, kỹ thuật viên trước khi được cấp chứng chỉ hành nghề được quy định như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_35",
+    "split": "dev",
+    "question": "Hồ sơ gửi Bộ Nông nghiệp và Phát triển nông thôn đề nghị thẩm định các hoạt động sử dụng bãi sông nơi chưa có công trình xây dựng để xây dựng công trình theo dự án đầu tư do Thủ tướng Chính phủ phê duyệt gồm những tài liệu gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_42",
+    "split": "dev",
+    "question": "7. Hồ sơ dự án đối với công trình xây dựng ở bãi sông nơi chưa có công trình xây dựng theo dự án đầu tư do Thủ tướng Chính phủ phê duyệt gửi Bộ Nông nghiệp và Phát triển nông thôn đề nghị thẩm định gồm những nội dung gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_50",
+    "split": "test",
+    "question": "Đề nghị cho biết hồ sơ lâm sản sau xử lý tịch thu gồm những gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_55",
+    "split": "test",
+    "question": "Người lao động đang hưởng TCTN không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm trong các trường hợp nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_60",
+    "split": "test",
+    "question": "Người lao động đang hưởng TCTN không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm trong các trường hợp nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_65",
+    "split": "test",
+    "question": "Những trường hợp nào người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo về việc tìm kiếm việc làm hằng tháng?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_70",
+    "split": "test",
+    "question": "Những trường hợp nào người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo về việc tìm kiếm việc làm hằng tháng?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q_dev_unans_1",
+    "split": "dev",
+    "question": "Mức xử phạt tiền tối đa đối với hành vi vi phạm nồng độ cồn khi lái xe ô tô theo Nghị định 100/2019/NĐ-CP là bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tập ngữ cảnh 118 điều luật chỉ bao gồm các văn bản về đầu tư, nuôi con nuôi, khiếu nại, tố cáo, kiểm định giáo dục và lâm nghiệp; hoàn toàn không chứa Nghị định 100/2019/NĐ-CP về xử phạt vi phạm giao thông."
+  },
+  {
+    "id": "q_dev_unans_2",
+    "split": "dev",
+    "question": "Thời hạn tối đa của hợp đồng lao động xác định thời hạn theo Bộ luật Lao động 2019 là bao nhiêu tháng?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tập dữ liệu không chứa các điều khoản của Bộ luật Lao động 2019 quy định về loại và thời hạn hợp đồng lao động."
+  },
+  {
+    "id": "q_test_unans_1",
+    "split": "test",
+    "question": "Theo Luật Hôn nhân và Gia đình hiện hành, độ tuổi kết hôn tối thiểu đối với nam và nữ tại Việt Nam là bao nhiêu tuổi?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus không có quy định về điều kiện kết hôn và độ tuổi kết hôn của Luật Hôn nhân và Gia đình."
+  },
+  {
+    "id": "q_test_unans_2",
+    "split": "test",
+    "question": "Mức đóng bảo hiểm y tế bắt buộc của học sinh, sinh viên được ngân sách nhà nước hỗ trợ tối thiểu bao nhiêu phần trăm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong toàn bộ 118 điều luật không có văn bản pháp luật nào quy định về mức đóng và tỷ lệ hỗ trợ BHYT cho học sinh sinh viên."
+  }
+]

@@ -1,0 +1,471 @@
+[
+  {
+    "query_id": "q_50",
+    "status": "answered",
+    "answer": "Hồ sơ lâm sản sau khi được tịch thu gồm: 1) Bản chính hợp đồng mua bán tài sản đấu giá; 2) Hóa đơn theo quy định của Bộ Tài chính; 3) Bản chính bảng kê lâm sản do cơ quan bán lập. [B_legal_521188]",
+    "citations": [
+      "B_legal_521188"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "hồ sơ lâm sản sau xử lý tịch thu gồm những gì",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_521188",
+            "source_id": "legal_521188",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 18",
+            "text": "Điều 18 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Hồ sơ lâm sản sau xử lý tịch thu 1. Bản chính hợp đồng mua bán tài sản đấu giá. 2. Hóa đơn theo quy định của Bộ Tài chính. 3. Bản chính bảng kê lâm sản do cơ quan bán lập. Mục 2. HỒ SƠ LÂM SẢN MUA BÁN, VẬN CHUYỂN TRONG NƯỚC",
+            "metadata": {
+              "title": "Điều 18 27/2018/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 18"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_32",
+            "source_id": "legal_32",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 8",
+            "text": "Điều 8 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Tiếp nhận, thẩm định hồ sơ đăng ký cấp Giấy xác nhận 1. Tổ chức, cá nhân đăng ký cấp Giấy xác nhận gửi hồ sơ trực tiếp hoặc theo đường bưu điện đến cơ quan thường trực của Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường). 2. Vụ Khoa học, Công nghệ và Môi trường xem xét hồ sơ và thông báo bằng văn bản (theo mẫu quy định tại Phụ lục 5 của Thông tư này) cho tổ chức, cá nhân đăng ký trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ về việc chấp nhận hồ sơ hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian xem xét hồ sơ hợp lệ. 3. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường đăng tải thông tin và bản tóm tắt báo cáo đánh giá rủi ro trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn để lấy ý kiến công chúng; tổng hợp và gửi Hội đồng. Thời gian lấy ý kiến công chúng tối đa 30 (ba mươi) ngày, kể từ ngày thông tin được đăng tải. 4. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường tổ chức Hội đồng để đánh giá hồ sơ đăng ký cấp Giấy xác nhận trong thời hạn 30 (ba mươi) ngày đối với hồ sơ đăng ký theo khoản 1 Điều 6 của Thông tư này và 180 (một trăm tám mươi) ngày đối với hồ sơ đăng ký theo khoản 2 Điều 6 của Thông tư này.",
+            "metadata": {
+              "title": "Điều 8 02/2014/TT-BNNPTTN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 8"
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_521204",
+            "source_id": "legal_521204",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 34",
+            "text": "Điều 34 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Đánh dấu mẫu vật 1. Mẫu vật của các loài thuộc các Phụ lục CITES đã có quy định đánh dấu thì thực hiện theo quy định của CITES. 2. Việc đánh dấu có thể thực hiện bằng tem, mã số, mã vạch, mã QR, chip điện tử, vòng, khuyên hoặc vật liệu khác (sau đây gọi chung là nhãn đánh dấu) có chứa đựng thông tin để truy xuất nguồn gốc. 3. Chủ mẫu vật tự quyết định chất liệu, kích thước, hình thức của nhãn đánh dấu, phù hợp với tính chất, chủng loại của mẫu vật và đảm bảo đúng quy định của pháp luật về nhãn hàng hóa. Nhãn đánh dấu được gắn trực tiếp lên mẫu vật, bảo đảm có thể dễ dàng nhận biết bằng mắt thường hoặc thiết bị đọc. 4. Sau khi hoàn thành đánh dấu mẫu vật, trong thời hạn 01 ngày làm việc, chủ lâm sản ghi đủ các thông tin đánh dấu vào sổ theo dõi đánh dấu mẫu vật bằng sổ giấy hoặc sổ điện tử theo Mẫu số 12 kèm theo Thông tư này và chịu trách nhiệm về tính trung thực, rõ ràng, chính xác của nhãn đánh dấu.",
+            "metadata": {
+              "title": "Điều 34 27/2018/TT-BNNPTNT",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 34"
+            },
+            "score": 0.028629032258064516,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_521188 | legal_truncated_corpus.csv | page Điều 18]\nĐiều 18 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Hồ sơ lâm sản sau xử lý tịch thu 1. Bản chính hợp đồng mua bán tài sản đấu giá. 2. Hóa đơn theo quy định của Bộ Tài chính. 3. Bản chính bảng kê lâm sản do cơ quan bán lập. Mục 2. HỒ SƠ LÂM SẢN MUA BÁN, VẬN CHUYỂN TRONG NƯỚC\n\n[B_legal_32 | legal_truncated_corpus.csv | page Điều 8]\nĐiều 8 02/2014/TT-BNNPTTN quy định trình tự, thủ tục cấp và thu hồi giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi Tiếp nhận, thẩm định hồ sơ đăng ký cấp Giấy xác nhận 1. Tổ chức, cá nhân đăng ký cấp Giấy xác nhận gửi hồ sơ trực tiếp hoặc theo đường bưu điện đến cơ quan thường trực của Bộ Nông nghiệp và Phát triển nông thôn (Vụ Khoa học, Công nghệ và Môi trường). 2. Vụ Khoa học, Công nghệ và Môi trường xem xét hồ sơ và thông báo bằng văn bản (theo mẫu quy định tại Phụ lục 5 của Thông tư này) cho tổ chức, cá nhân đăng ký trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận hồ sơ về việc chấp nhận hồ sơ hợp lệ hoặc yêu cầu bổ sung, hoàn thiện hồ sơ. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian xem xét hồ sơ hợp lệ. 3. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường đăng tải thông tin và bản tóm tắt báo cáo đánh giá rủi ro trên trang thông tin điện tử của Bộ Nông nghiệp và Phát triển nông thôn để lấy ý kiến công chúng; tổng hợp và gửi Hội đồng. Thời gian lấy ý kiến công chúng tối đa 30 (ba mươi) ngày, kể từ ngày thông tin được đăng tải. 4. Sau khi nhận hồ sơ hợp lệ, Vụ Khoa học, Công nghệ và Môi trường tổ chức Hội đồng để đánh giá hồ sơ đăng ký cấp Giấy xác nhận trong thời hạn 30 (ba mươi) ngày đối với hồ sơ đăng ký theo khoản 1 Điều 6 của Thông tư này và 180 (một trăm tám mươi) ngày đối với hồ sơ đăng ký theo khoản 2 Điều 6 của Thông tư này.",
+        "context_ids": [
+          "B_legal_521188",
+          "B_legal_32"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 15.48
+  },
+  {
+    "query_id": "q_55",
+    "status": "answered",
+    "answer": "Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng nếu: a) nam từ 60 tuổi trở lên, nữ từ 55 tuổi trở lên; b) thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) đang nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế (đối với nam có vợ chết sau sinh thì cần giấy khai sinh của con và giấy chứng tử của mẹ); d) đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. [B_legal_569613]",
+    "citations": [
+      "B_legal_569613"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "người lao động hưởng trợ cấp thất nghiệp không phải thông báo tìm kiếm việc làm hằng tháng trong những trường hợp nào",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_569616",
+            "source_id": "legal_569616",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 3. Người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Ốm đau nhưng không thuộc trường hợp quy định tại Điểm b Khoản 2 Điều này có xác nhận của cơ sở y tế có thẩm quyền; b) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền; c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn; d) Cha, mẹ, vợ/chồng, con của người lao động chết; người lao động hoặc con của người lao động kết hôn có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn. Các trường hợp không trực tiếp đến trung tâm dịch vụ việc làm thì chậm nhất trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của thời hạn thông báo hằng tháng về việc tìm kiếm việc làm theo quy định, người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. 4. Ngày người lao động thông báo hằng tháng về việc tìm kiếm việc làm được ghi cụ thể trong phụ lục quyết định hưởng trợ cấp thất nghiệp của người lao động như sau: a) Ngày của tháng thứ nhất hưởng trợ cấp thất nghiệp là ngày nhận quyết định hưởng trợ cấp thất nghiệp theo phiếu hẹn trả kết quả; b) Từ tháng thứ hai trở đi người lao động thực hiện ngày thông báo hằng tháng về việc tìm kiếm việc làm trong thời hạn 03 ngày làm việc kể từ ngày đầu tiên của tháng hưởng trợ cấp thất nghiệp.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569613",
+            "source_id": "legal_569613",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569618",
+            "source_id": "legal_569618",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_569613 | legal_truncated_corpus.csv | page Điều 10]\nĐiều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+        "context_ids": [
+          "B_legal_569613"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 6.49
+  },
+  {
+    "query_id": "q_60",
+    "status": "answered",
+    "answer": "Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thuộc một trong các trường hợp sau: a) Nam từ 60 tuổi trở lên, nữ từ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Đang nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền (đối với nam giới có vợ chết sau sinh, cần giấy khai sinh của con và giấy chứng tử của mẹ); d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. [B_legal_569613]",
+    "citations": [
+      "B_legal_569613"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "người lao động hưởng trợ cấp thất nghiệp không phải thông báo hằng tháng tìm kiếm việc làm trong những trường hợp nào",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_569616",
+            "source_id": "legal_569616",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 3. Người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Ốm đau nhưng không thuộc trường hợp quy định tại Điểm b Khoản 2 Điều này có xác nhận của cơ sở y tế có thẩm quyền; b) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền; c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn; d) Cha, mẹ, vợ/chồng, con của người lao động chết; người lao động hoặc con của người lao động kết hôn có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn. Các trường hợp không trực tiếp đến trung tâm dịch vụ việc làm thì chậm nhất trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của thời hạn thông báo hằng tháng về việc tìm kiếm việc làm theo quy định, người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. 4. Ngày người lao động thông báo hằng tháng về việc tìm kiếm việc làm được ghi cụ thể trong phụ lục quyết định hưởng trợ cấp thất nghiệp của người lao động như sau: a) Ngày của tháng thứ nhất hưởng trợ cấp thất nghiệp là ngày nhận quyết định hưởng trợ cấp thất nghiệp theo phiếu hẹn trả kết quả; b) Từ tháng thứ hai trở đi người lao động thực hiện ngày thông báo hằng tháng về việc tìm kiếm việc làm trong thời hạn 03 ngày làm việc kể từ ngày đầu tiên của tháng hưởng trợ cấp thất nghiệp.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569613",
+            "source_id": "legal_569613",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569618",
+            "source_id": "legal_569618",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_569613 | legal_truncated_corpus.csv | page Điều 10]\nĐiều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+        "context_ids": [
+          "B_legal_569613"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 14.57
+  },
+  {
+    "query_id": "q_65",
+    "status": "answered",
+    "answer": "Khi người lao động đang hưởng trợ cấp thất nghiệp đề nghị chuyển nơi hưởng trợ cấp, họ không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp.[B_legal_569618]",
+    "citations": [
+      "B_legal_569618"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "trợ cấp thất nghiệp không phải thông báo tìm kiếm việc làm hằng tháng các trường hợp",
+        "filter": {
+          "loai_vb": "Thông tư"
+        },
+        "results": [
+          {
+            "id": "B_legal_569616",
+            "source_id": "legal_569616",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 3. Người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Ốm đau nhưng không thuộc trường hợp quy định tại Điểm b Khoản 2 Điều này có xác nhận của cơ sở y tế có thẩm quyền; b) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền; c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn; d) Cha, mẹ, vợ/chồng, con của người lao động chết; người lao động hoặc con của người lao động kết hôn có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn. Các trường hợp không trực tiếp đến trung tâm dịch vụ việc làm thì chậm nhất trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của thời hạn thông báo hằng tháng về việc tìm kiếm việc làm theo quy định, người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. 4. Ngày người lao động thông báo hằng tháng về việc tìm kiếm việc làm được ghi cụ thể trong phụ lục quyết định hưởng trợ cấp thất nghiệp của người lao động như sau: a) Ngày của tháng thứ nhất hưởng trợ cấp thất nghiệp là ngày nhận quyết định hưởng trợ cấp thất nghiệp theo phiếu hẹn trả kết quả; b) Từ tháng thứ hai trở đi người lao động thực hiện ngày thông báo hằng tháng về việc tìm kiếm việc làm trong thời hạn 03 ngày làm việc kể từ ngày đầu tiên của tháng hưởng trợ cấp thất nghiệp.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569618",
+            "source_id": "legal_569618",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569613",
+            "source_id": "legal_569613",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_569618 | legal_truncated_corpus.csv | page Điều 10]\nĐiều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+        "context_ids": [
+          "B_legal_569618"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 10.74
+  },
+  {
+    "query_id": "q_70",
+    "status": "answered",
+    "answer": "Nếu người lao động đang hưởng trợ cấp thất nghiệp chuyển nơi hưởng trợ cấp (đề nghị chuyển địa điểm nhận trợ cấp), họ không phải thực hiện thông báo về việc tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp. [B_legal_569618]",
+    "citations": [
+      "B_legal_569618"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "trợ cấp thất nghiệp không phải báo cáo tìm kiếm việc làm hằng tháng các trường hợp",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_569616",
+            "source_id": "legal_569616",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 3. Người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Ốm đau nhưng không thuộc trường hợp quy định tại Điểm b Khoản 2 Điều này có xác nhận của cơ sở y tế có thẩm quyền; b) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền; c) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn; d) Cha, mẹ, vợ/chồng, con của người lao động chết; người lao động hoặc con của người lao động kết hôn có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn. Các trường hợp không trực tiếp đến trung tâm dịch vụ việc làm thì chậm nhất trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của thời hạn thông báo hằng tháng về việc tìm kiếm việc làm theo quy định, người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. 4. Ngày người lao động thông báo hằng tháng về việc tìm kiếm việc làm được ghi cụ thể trong phụ lục quyết định hưởng trợ cấp thất nghiệp của người lao động như sau: a) Ngày của tháng thứ nhất hưởng trợ cấp thất nghiệp là ngày nhận quyết định hưởng trợ cấp thất nghiệp theo phiếu hẹn trả kết quả; b) Từ tháng thứ hai trở đi người lao động thực hiện ngày thông báo hằng tháng về việc tìm kiếm việc làm trong thời hạn 03 ngày làm việc kể từ ngày đầu tiên của tháng hưởng trợ cấp thất nghiệp.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569618",
+            "source_id": "legal_569618",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569613",
+            "source_id": "legal_569613",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau: a) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên; b) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền; c) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ; d) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề; đ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_569618 | legal_truncated_corpus.csv | page Điều 10]\nĐiều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+        "context_ids": [
+          "B_legal_569618"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 14.53
+  },
+  {
+    "query_id": "q_test_unans_1",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "độ tuổi kết hôn tối thiểu nam nữ Luật Hôn nhân và Gia đình Việt Nam",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_9",
+            "source_id": "legal_9",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 01/2014/NQLT/CP-UBTƯMTTQVN hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận tham gia thực hiện hoạt động hòa giải ở cơ sở Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận các cấp ở địa phương mà nòng cốt là Hội Liên hiệp phụ nữ Việt Nam, Hội Cựu chiến binh Việt Nam, Đoàn Thanh niên cộng sản Hồ Chí Minh, Hội Nông dân Việt Nam, Hội Người cao tuổi Việt Nam hướng dẫn, khuyến khích, động viên và tạo điều kiện thuận lợi cho các thành viên của Mặt trận Tổ quốc Việt Nam, đoàn viên, hội viên các tổ chức thành viên của Mặt trận làm hòa giải viên hoặc tham gia trực tiếp hòa giải các mâu thuẫn, tranh chấp ở cơ sở. Các thành viên của Mặt trận Tổ quốc Việt Nam, đoàn viên, hội viên các tổ chức thành viên của Mặt trận tham gia hòa giải ở cơ sở được Ủy ban nhân dân cấp xã hỗ trợ tài liệu, phổ biến pháp luật phục vụ hoạt động hòa giải ở cơ sở, khen thưởng hoặc đề nghị Ủy ban nhân dân cấp trên khen thưởng khi tích cực tham gia hoạt động hòa giải ở cơ sở theo quy định tại Điểm d Khoản 1, Điểm d Khoản 2, Điểm a và Điểm d Khoản 3 Điều 4 của Nghị định số 15/2014/NĐ-CP ngày 27 tháng 02 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hòa giải ở cơ sở.",
+            "metadata": {
+              "title": "Điều 10 01/2014/NQLT/CP-UBTƯMTTQVN",
+              "loai_vb": "Văn bản khác",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03252247488101534,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_20792",
+            "source_id": "legal_20792",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 29",
+            "text": "Điều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+            "metadata": {
+              "title": "Điều 29 52/2010/QH12",
+              "loai_vb": "Luật",
+              "dieu": "Điều 29"
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_23",
+            "source_id": "legal_23",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 16",
+            "text": "Điều 16 01/2014/NQLT/CP-UBTƯMTTQVN hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở Tổ chức thực hiện 1. Bộ Tư pháp, Ban Thường trực Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam tham mưu giúp Chính phủ, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam phối hợp chỉ đạo, hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Nghị quyết liên tịch này. 2. Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm phối hợp tổ chức thực hiện các nhiệm vụ theo quy định tại Nghị quyết liên tịch này tại địa phương. 3. Kinh phí thực hiện các nhiệm vụ phối hợp theo quy định tại Nghị quyết liên tịch này do ngân sách nhà nước cấp trong dự toán kinh phí hàng năm của cơ quan, tổ chức và các nguồn kinh phí hợp pháp khác, được thực hiện theo quy định pháp luật hiện hành./. TM. ỦY BAN TRUNG ƯƠNG MẶT TRẬN TỔ QUỐC VIỆT NAM CHỦ TỊCH Nguyễn Thiện Nhân TM. CHÍNH PHỦ THỦ TƯỚNG Nguyễn Tấn Dũng Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Chủ tịch, các Phó Chủ tịch Ủy ban TW Mặt trận Tổ quốc VN; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc TW; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện Kiểm sát nhân dân tối cao; - Ủy ban Giám sát tài chính quốc gia; - Kiểm toán Nhà nước; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ban Thường trực Ủy ban TW Mặt trận Tổ quốc Việt Nam; - Cơ quan Trung ương của các đoàn thể; - UBMTTQ Việt Nam các tỉnh, thành phố trực thuộc TW; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: Văn thư, PL (3b), UBTƯMTTQVN (3b). PHỤ LỤC",
+            "metadata": {
+              "title": "Điều 16 01/2014/NQLT/CP-UBTƯMTTQVN",
+              "loai_vb": "Văn bản khác",
+              "dieu": "Điều 16"
+            },
+            "score": 0.030621785881252923,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_9 | legal_truncated_corpus.csv | page Điều 10]\nĐiều 10 01/2014/NQLT/CP-UBTƯMTTQVN hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận tham gia thực hiện hoạt động hòa giải ở cơ sở Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận các cấp ở địa phương mà nòng cốt là Hội Liên hiệp phụ nữ Việt Nam, Hội Cựu chiến binh Việt Nam, Đoàn Thanh niên cộng sản Hồ Chí Minh, Hội Nông dân Việt Nam, Hội Người cao tuổi Việt Nam hướng dẫn, khuyến khích, động viên và tạo điều kiện thuận lợi cho các thành viên của Mặt trận Tổ quốc Việt Nam, đoàn viên, hội viên các tổ chức thành viên của Mặt trận làm hòa giải viên hoặc tham gia trực tiếp hòa giải các mâu thuẫn, tranh chấp ở cơ sở. Các thành viên của Mặt trận Tổ quốc Việt Nam, đoàn viên, hội viên các tổ chức thành viên của Mặt trận tham gia hòa giải ở cơ sở được Ủy ban nhân dân cấp xã hỗ trợ tài liệu, phổ biến pháp luật phục vụ hoạt động hòa giải ở cơ sở, khen thưởng hoặc đề nghị Ủy ban nhân dân cấp trên khen thưởng khi tích cực tham gia hoạt động hòa giải ở cơ sở theo quy định tại Điểm d Khoản 1, Điểm d Khoản 2, Điểm a và Điểm d Khoản 3 Điều 4 của Nghị định số 15/2014/NĐ-CP ngày 27 tháng 02 năm 2014 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật hòa giải ở cơ sở.\n\n[B_legal_20792 | legal_truncated_corpus.csv | page Điều 29]\nĐiều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi người đó thường trú và quy định tại Điều 14 của Luật này. 2. Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú.",
+        "context_ids": [
+          "B_legal_9",
+          "B_legal_20792"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 12.09
+  },
+  {
+    "query_id": "q_test_unans_2",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức đóng bảo hiểm y tế bắt buộc học sinh sinh viên ngân sách nhà nước hỗ trợ tối thiểu bao nhiêu phần trăm",
+        "filter": null,
+        "results": [
+          {
+            "id": "B_legal_516494",
+            "source_id": "legal_516494",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 9",
+            "text": "Điều 9 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng Hồ sơ đề nghị chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp 1. Văn bản của tổ chức tín dụng phi ngân hàng đề nghị Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước) chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp theo mẫu Phụ lục ban hành kèm theo Thông tư này. 2. Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên của tổ chức tín dụng phi ngân hàng về việc thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp hoặc văn bản của cấp có thẩm quyền khác theo quy định tại Điều lệ của tổ chức tín dụng phi ngân hàng. 3. Đề án thành lập chi nhánh, trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tên viết tắt bằng tiếng Việt, địa chỉ trụ sở, nội dung hoạt động; b) Lý do thành lập và lựa chọn địa bàn thành lập; c) Cơ cấu tổ chức: sơ đồ tổ chức của chi nhánh, dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn); đ) Nghiên cứu khả thi: phân tích môi trường kinh doanh, thị trường mục tiêu, các cơ hội kinh doanh và kế hoạch chiếm lĩnh thị trường; đ) Phương án kinh doanh dự kiến trong 03 năm đầu, trong đó tối thiểu bao gồm: dự kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; căn cứ xây dựng phương án và thuyết minh khả năng thực hiện phương án trong từng năm. 4. Đề án thành lập văn phòng đại diện, đơn vị sự nghiệp trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tiếng nước ngoài (nếu có); tên viết tắt bằng tiếng Việt, tiếng nước ngoài (nếu có); địa chỉ; nội dung hoạt động; b) Lý do, nhu cầu thành lập; c) Dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn, người đứng đầu văn phòng đại diện, đơn vị sự nghiệp); d) Kế hoạch hoạt động dự kiến trong 03 năm đầu.",
+            "metadata": {
+              "title": "Điều 9 53/2018/TT-NHNN",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 9"
+            },
+            "score": 0.03021353930031804,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569618",
+            "source_id": "legal_569618",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp. 6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.03009207275993712,
+            "strategy": "hybrid_rrf"
+          },
+          {
+            "id": "B_legal_569614",
+            "source_id": "legal_569614",
+            "source": "legal_truncated_corpus.csv",
+            "page": "Điều 10",
+            "text": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định. Ví dụ 14: Bà Trần Thị T có quyết định về việc hưởng trợ cấp thất nghiệp 06 tháng kể từ ngày 02/3/2015 đến ngày 01/9/2015 (ngày thông báo về việc tìm kiếm việc làm hằng tháng cụ thể như sau: Tháng hưởng trợ cấp thất nghiệp thứ nhất là ngày nhận trả kết quả, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 03 đến ngày 07/4, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 04 đến ngày 06/5, tháng hưởng trợ cấp thất nghiệp thứ tư từ ngày 03 đến ngày 05/6, tháng hưởng trợ cấp thất nghiệp thứ năm từ ngày 02 đến ngày 06/7, tháng hưởng trợ cấp thất nghiệp thứ sáu từ ngày 03 đến ngày 07/8). Bà T có quyết định về việc hỗ trợ học nghề của Giám đốc Sở Lao động – Thương binh và Xã hội, thời gian học nghề của bà là 03 tháng tính từ ngày 15/4/2015 đến ngày 15/7/2015. Như vậy, chậm nhất vào ngày 20/4/2015 (sau 03 ngày làm việc kể từ ngày bà T được hỗ trợ học nghề), bà T phải gửi giấy xác nhận của cơ sở dạy nghề về việc đang học nghề cho trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp. Tháng hưởng trợ cấp thất nghiệp thứ ba, thứ tư, thứ năm bà T không phải thông báo về việc tìm kiếm việc làm.",
+            "metadata": {
+              "title": "Điều 10 28/2015/TT-BLĐTBXH",
+              "loai_vb": "Thông tư",
+              "dieu": "Điều 10"
+            },
+            "score": 0.029910714285714284,
+            "strategy": "hybrid_rrf"
+          }
+        ],
+        "context": "[B_legal_516494 | legal_truncated_corpus.csv | page Điều 9]\nĐiều 9 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng Hồ sơ đề nghị chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp 1. Văn bản của tổ chức tín dụng phi ngân hàng đề nghị Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước) chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp theo mẫu Phụ lục ban hành kèm theo Thông tư này. 2. Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên của tổ chức tín dụng phi ngân hàng về việc thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp hoặc văn bản của cấp có thẩm quyền khác theo quy định tại Điều lệ của tổ chức tín dụng phi ngân hàng. 3. Đề án thành lập chi nhánh, trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tên viết tắt bằng tiếng Việt, địa chỉ trụ sở, nội dung hoạt động; b) Lý do thành lập và lựa chọn địa bàn thành lập; c) Cơ cấu tổ chức: sơ đồ tổ chức của chi nhánh, dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn); đ) Nghiên cứu khả thi: phân tích môi trường kinh doanh, thị trường mục tiêu, các cơ hội kinh doanh và kế hoạch chiếm lĩnh thị trường; đ) Phương án kinh doanh dự kiến trong 03 năm đầu, trong đó tối thiểu bao gồm: dự kiến bảng cân đối kế toán; báo cáo kết quả kinh doanh; căn cứ xây dựng phương án và thuyết minh khả năng thực hiện phương án trong từng năm. 4. Đề án thành lập văn phòng đại diện, đơn vị sự nghiệp trong đó phải có tối thiểu các nội dung sau: a) Tên đầy đủ bằng tiếng Việt, tiếng nước ngoài (nếu có); tên viết tắt bằng tiếng Việt, tiếng nước ngoài (nếu có); địa chỉ; nội dung hoạt động; b) Lý do, nhu cầu thành lập; c) Dự kiến nhân sự chủ chốt (Giám đốc, Phó giám đốc, Trưởng các bộ phận chuyên môn, người đứng đầu văn phòng đại diện, đơn vị sự nghiệp); d) Kế hoạch hoạt động dự kiến trong 03 năm đầu.",
+        "context_ids": [
+          "B_legal_516494"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 15.16
+  }
+]

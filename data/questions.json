@@ -1,0 +1,277 @@
+[
+  {
+    "id": "q_0",
+    "split": "dev",
+    "question": "Chứng nhận hợp quy, công bố hợp quy đối với sản phẩm chuyên ngành CNTT&TT  là gì?",
+    "expected_answer": "Chứng nhận hợp quy là việc xác nhận sản phẩm phù hợp quy chuẩn kỹ thuật; Công bố hợp quy là việc tổ chức, cá nhân công bố sản phẩm phù hợp quy chuẩn kỹ thuật.",
+    "gold": [
+      {
+        "source_id": "legal_630493",
+        "page": "Điều 2",
+        "evidence": "Điều 2 30/2011/TT-BTTTT quy định về chứng nhận hợp quy và công bố hợp quy đối với sản phẩm, hàng hóa chuyên ngành công nghệ thông tin về truyền thông Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Chứng nhận hợp quy l"
+      }
+    ]
+  },
+  {
+    "id": "q_1",
+    "split": "dev",
+    "question": "Pháp luật nuôi con nuôi Việt Nam có quy định độ tuổi tối đa của người nước ngoài nhận trẻ em Việt Nam làm con nuôi không?",
+    "expected_answer": "Không. Pháp luật nuôi con nuôi Việt Nam không quy định độ tuổi tối đa của người nhận con nuôi, chỉ quy định hơn con nuôi từ 20 tuổi trở lên.",
+    "gold": [
+      {
+        "source_id": "legal_20792",
+        "page": "Điều 29",
+        "evidence": "Điều 29 52/2010/QH12 nuôi con nuôi Điều kiện đối với người nhận con nuôi 1. Người Việt Nam định cư ở nước ngoài, người nước ngoài thường trú ở nước ngoài nhận người Việt Nam làm con nuôi phải có đủ các điều kiện theo quy định của pháp luật nước nơi n"
+      }
+    ]
+  },
+  {
+    "id": "q_2",
+    "split": "dev",
+    "question": "Hồ sơ đề nghị chấp thuận thành lập chi nhánh của tổ chức tín dụng phi ngân hàng gồm những gì?",
+    "expected_answer": "Văn bản đề nghị của TCTD phi ngân hàng, Nghị quyết HĐQT/HĐTV, đề án thành lập chi nhánh, tài liệu chứng minh đáp ứng điều kiện.",
+    "gold": [
+      {
+        "source_id": "legal_516494",
+        "page": "Điều 9",
+        "evidence": "Điều 9 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng Hồ sơ đề nghị chấp thuận thành lập chi nhánh, văn phòng đại diện, đơn vị sự nghiệp 1. Văn bản của tổ chức tín dụng phi ngân hàng đề nghị Ngân hàng Nhà nước Việt"
+      }
+    ]
+  },
+  {
+    "id": "q_4",
+    "split": "dev",
+    "question": "Tôi là người nước ngoài đến Việt Nam để du lịch từ đường biển, tôi có được phép mua hàng tại cửa hàng miễn thuế trên cảng biển không?",
+    "expected_answer": "Có. Khách du lịch đường biển có hộ chiếu hoặc giấy thông hành hợp lệ được mua hàng miễn thuế tại cửa hàng miễn thuế trong khu vực cách ly cảng biển.",
+    "gold": [
+      {
+        "source_id": "legal_74452",
+        "page": "Điều 3",
+        "evidence": "Điều 3 167/2016/NĐ-CP về kinh doanh hàng miễn thuế Đối tượng và điều kiện mua hàng miễn thuế 1. Người xuất cảnh, quá cảnh sau khi hoàn thành thủ tục xuất cảnh, quá cảnh, hành khách trên các chuyến bay quốc tế xuất cảnh từ Việt Nam hoặc người chờ xuất"
+      }
+    ],
+    "filter": {
+      "loai_vb": "Nghị định"
+    }
+  },
+  {
+    "id": "q_6",
+    "split": "dev",
+    "question": "Người được bảo vệ theo quy định của Luật tố cáo có những nghĩa vụ gì?",
+    "expected_answer": "Chấp hành yêu cầu của cơ quan bảo vệ, giữ bí mật thông tin bảo vệ, thông báo kịp thời khi có vấn đề phát sinh.",
+    "gold": [
+      {
+        "source_id": "legal_6567",
+        "page": "Điều 48",
+        "evidence": "Điều 48 25/2018/QH14 tố cáo Quyền và nghĩa vụ của người được bảo vệ 1. Người được bảo vệ có các quyền sau đây: a) Được biết về các biện pháp bảo vệ; b) Được giải thích về quyền và nghĩa vụ khi được áp dụng biện pháp bảo vệ; c) Đề nghị thay đổi, bổ su"
+      }
+    ],
+    "filter": {
+      "loai_vb": "Luật"
+    }
+  },
+  {
+    "id": "q_7",
+    "split": "dev",
+    "question": "Người được bảo vệ theo quy định của Luật tố cáo có những quyền gì?",
+    "expected_answer": "Người khiếu nại, tố cáo có trách nhiệm cung cấp thông tin, tài liệu liên quan đến nội dung khiếu nại, tố cáo cho cơ quan có thẩm quyền.",
+    "gold": [
+      {
+        "source_id": "legal_6567",
+        "page": "Điều 48",
+        "evidence": "Điều 48 25/2018/QH14 tố cáo Quyền và nghĩa vụ của người được bảo vệ 1. Người được bảo vệ có các quyền sau đây: a) Được biết về các biện pháp bảo vệ; b) Được giải thích về quyền và nghĩa vụ khi được áp dụng biện pháp bảo vệ; c) Đề nghị thay đổi, bổ su"
+      }
+    ],
+    "filter": {
+      "loai_vb": "Luật"
+    }
+  },
+  {
+    "id": "q_8",
+    "split": "dev",
+    "question": "Thủ tục cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài?",
+    "expected_answer": "Gồm văn bản đề nghị, bản sao CMND/CCCD/Hộ chiếu hoặc giấy phép kinh doanh, đề xuất dự án đầu tư, tài liệu chứng minh năng lực tài chính.",
+    "gold": [
+      {
+        "source_id": "legal_14661",
+        "page": "Điều 59",
+        "evidence": "Điều 59 67/2014/QH13 đầu tư Thủ tục cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài 1. Đối với các dự án đầu tư thuộc diện phải quyết định chủ trương đầu tư ra nước ngoài, Bộ Kế hoạch và Đầu tư cấp Giấy chứng nhận đăng ký đầu tư ra nước ngoài cho nh"
+      }
+    ],
+    "filter": {
+      "loai_vb": "Nghị định"
+    }
+  },
+  {
+    "id": "q_11",
+    "split": "dev",
+    "question": "Đề nghị cho biết các  thông tin cần đánh dấu mẫu vật đối với lâm sản và sản phẩm gỗ hoàn chỉnh được quy định như thế nào?",
+    "expected_answer": "Được hưởng đầy đủ quyền lợi về BHXH, BHYT theo quy định của pháp luật và thỏa ước lao động tập thể.",
+    "gold": [
+      {
+        "source_id": "legal_521204",
+        "page": "Điều 34",
+        "evidence": "Điều 34 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Đánh dấu mẫu vật 1. Mẫu vật của các loài thuộc các Phụ lục CITES đã có quy định đánh dấu thì thực hiện theo quy định của CITES. 2. Việc đánh dấu có thể thực hiện bằng tem, mã"
+      }
+    ]
+  },
+  {
+    "id": "q_14",
+    "split": "dev",
+    "question": "Nhiệm vụ thiết kế BVTC gồm nội dung gì? đơn vị lập và thẩm quyền phê duyệt nhiệm vụ thiết kế BVTC?",
+    "expected_answer": "Tổ chức kiểm định chất lượng giáo dục nghề nghiệp do Thủ trưởng cơ quan quản lý nhà nước về giáo dục nghề nghiệp cấp phép hoạt động.",
+    "gold": [
+      {
+        "source_id": "legal_83644",
+        "page": "Điều 18",
+        "evidence": "Điều 18 46/2015/NĐ-CP về quản lý chất lượng và bảo trì công trình xây dựng Nhiệm vụ thiết kế xây dựng công trình 1. Chủ đầu tư lập hoặc thuê tổ chức, cá nhân có năng lực phù hợp lập nhiệm vụ thiết kế xây dựng công trình. 2. Nhiệm vụ thiết kế xây dựng"
+      }
+    ]
+  },
+  {
+    "id": "q_18",
+    "split": "dev",
+    "question": "Các trường hợp thu hồi giấy phép về vũ khí thể thao?",
+    "expected_answer": "Báo cáo định kỳ 6 tháng và hàng năm bằng văn bản hoặc phương thức điện tử gửi cơ quan đại diện chủ sở hữu.",
+    "gold": [
+      {
+        "source_id": "legal_7478",
+        "page": "Điều 10",
+        "evidence": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ 3. Giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ đã cấp cho cá nhân được thu hồi trong trường hợp chuyển công tác khá"
+      }
+    ]
+  },
+  {
+    "id": "q_23",
+    "split": "dev",
+    "question": "Vũ khí thể thao thu hồi trong các trường hợp nào?",
+    "expected_answer": "Phải công khai thông tin trên trang thông tin điện tử của doanh nghiệp và cổng thông tin doanh nghiệp quốc gia.",
+    "gold": [
+      {
+        "source_id": "legal_7477",
+        "page": "Điều 10",
+        "evidence": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ Thu hồi vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ và giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, côn"
+      }
+    ]
+  },
+  {
+    "id": "q_27",
+    "split": "dev",
+    "question": "Vũ khí quân dụng thu hồi trong các trường hợp nào?",
+    "expected_answer": "Giám sát tài chính đặc biệt được áp dụng khi doanh nghiệp có dấu hiệu mất khả năng thanh toán hoặc thua lỗ kéo dài.",
+    "gold": [
+      {
+        "source_id": "legal_7477",
+        "page": "Điều 10",
+        "evidence": "Điều 10 14/2017/QH14 quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ Thu hồi vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ và giấy phép, giấy xác nhận, giấy chứng nhận, chứng chỉ về quản lý, sử dụng vũ khí, vật liệu nổ, tiền chất thuốc nổ, côn"
+      }
+    ]
+  },
+  {
+    "id": "q_31",
+    "split": "dev",
+    "question": "Xác nhận thời gian thực hành đối với bác sỹ, y sỹ, hộ sinh viên, điều dưỡng viên, kỹ thuật viên trước khi được cấp chứng chỉ hành nghề được quy định như thế nào?",
+    "expected_answer": "Thời hạn giải quyết khiếu nại lần đầu không quá 30 ngày; đối với vụ việc phức tạp không quá 45 ngày.",
+    "gold": [
+      {
+        "source_id": "legal_21825",
+        "page": "Điều 24",
+        "evidence": "Điều 24 40/2009/QH12 khám bệnh, chữa bệnh Xác nhận quá trình thực hành 1. Người có văn bằng chuyên môn liên quan đến y tế được cấp hoặc công nhận tại Việt Nam, trước khi được cấp chứng chỉ hành nghề, phải qua thời gian thực hành tại cơ sở khám bệnh,"
+      }
+    ]
+  },
+  {
+    "id": "q_35",
+    "split": "dev",
+    "question": "Hồ sơ gửi Bộ Nông nghiệp và Phát triển nông thôn đề nghị thẩm định các hoạt động sử dụng bãi sông nơi chưa có công trình xây dựng để xây dựng công trình theo dự án đầu tư do Thủ tướng Chính phủ phê duyệt gồm những tài liệu gì?",
+    "expected_answer": "Ủy ban nhân dân cấp tỉnh có thẩm quyền công nhận ban vận động thành lập hội trên địa bàn tỉnh.",
+    "gold": [
+      {
+        "source_id": "legal_319",
+        "page": "Điều 6",
+        "evidence": "Điều 6 46/2011/TT-BNNPTNT quy định về trình tự thực hiện việc chấp thuận, thẩm định các hoạt động liên quan đến đê điều Trình tự thực hiện thẩm định Các hoạt động quy định tại khoản 3 Điều 1 Thông tư này, trình tự thực hiện thẩm định như sau: 1. Cơ q"
+      }
+    ]
+  },
+  {
+    "id": "q_42",
+    "split": "dev",
+    "question": "7. Hồ sơ dự án đối với công trình xây dựng ở bãi sông nơi chưa có công trình xây dựng theo dự án đầu tư do Thủ tướng Chính phủ phê duyệt gửi Bộ Nông nghiệp và Phát triển nông thôn đề nghị thẩm định gồm những nội dung gì?",
+    "expected_answer": "Hồ sơ công bố hợp quy nộp trực tiếp hoặc gửi qua bưu điện đến cơ quan chuyên môn thuộc Bộ Thông tin và Truyền thông.",
+    "gold": [
+      {
+        "source_id": "legal_320",
+        "page": "Điều 6",
+        "evidence": "Điều 6 46/2011/TT-BNNPTNT quy định về trình tự thực hiện việc chấp thuận, thẩm định các hoạt động liên quan đến đê điều Cơ quan, tổ chức, cá nhân đề nghị thẩm định gửi 02 bộ hồ sơ (01bộ chính và 01 bộ sao chụp) trực tiếp hoặc qua hệ thống bưu chính đ"
+      }
+    ]
+  },
+  {
+    "id": "q_50",
+    "split": "test",
+    "question": "Đề nghị cho biết hồ sơ lâm sản sau xử lý tịch thu gồm những gì?",
+    "expected_answer": "Gồm biên bản kiểm tra lâm sản, bảng kê lâm sản, hóa đơn giá trị gia tăng hoặc hồ sơ nguồn gốc hợp pháp của lâm sản.",
+    "gold": [
+      {
+        "source_id": "legal_521188",
+        "page": "Điều 18",
+        "evidence": "Điều 18 27/2018/TT-BNNPTNT quy định về quản lý, truy xuất nguồn gốc lâm sản Hồ sơ lâm sản sau xử lý tịch thu 1. Bản chính hợp đồng mua bán tài sản đấu giá. 2. Hóa đơn theo quy định của Bộ Tài chính. 3. Bản chính bảng kê lâm sản do cơ quan bán lập. Mụ"
+      }
+    ]
+  },
+  {
+    "id": "q_55",
+    "split": "test",
+    "question": "Người lao động đang hưởng TCTN không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm trong các trường hợp nào?",
+    "expected_answer": "Chủ rừng chịu trách nhiệm phòng cháy, chữa cháy rừng; xây dựng phương án PCCC rừng và tổ chức lực lượng tại chỗ.",
+    "gold": [
+      {
+        "source_id": "legal_569613",
+        "page": "Điều 10",
+        "evidence": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 2. Người la"
+      }
+    ]
+  },
+  {
+    "id": "q_60",
+    "split": "test",
+    "question": "Người lao động đang hưởng TCTN không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm trong các trường hợp nào?",
+    "expected_answer": "Sở Nông nghiệp và Phát triển nông thôn cấp chứng chỉ quản lý rừng bền vững theo tiêu chuẩn quốc gia.",
+    "gold": [
+      {
+        "source_id": "legal_569618",
+        "page": "Điều 10",
+        "evidence": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Tháng hưởng"
+      }
+    ]
+  },
+  {
+    "id": "q_65",
+    "split": "test",
+    "question": "Những trường hợp nào người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo về việc tìm kiếm việc làm hằng tháng?",
+    "expected_answer": "Thông tin an toàn thực phẩm phải bảo đảm chính xác, trung thực, kịp thời và có căn cứ khoa học.",
+    "gold": [
+      {
+        "source_id": "legal_569616",
+        "page": "Điều 10",
+        "evidence": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp 3. Người la"
+      }
+    ],
+    "filter": {
+      "loai_vb": "Thông tư"
+    }
+  },
+  {
+    "id": "q_70",
+    "split": "test",
+    "question": "Những trường hợp nào người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo về việc tìm kiếm việc làm hằng tháng?",
+    "expected_answer": "Cơ sở kinh doanh thực phẩm phải lưu giữ hồ sơ truy xuất nguồn gốc thực phẩm trong thời hạn tối thiểu theo quy định của pháp luật chuyên ngành.",
+    "gold": [
+      {
+        "source_id": "legal_569614",
+        "page": "Điều 10",
+        "evidence": "Điều 10 28/2015/TT-BLĐTBXH hướng dẫn thực hiện điều 52 của luật việc làm và một số điều của nghị định số 28/2015/nđ-cp ngày 12 tháng 3 năm 2015 của chính phủ quy định chi tiết thi hành một số điều của luật việc làm về bảo hiểm thất nghiệp Trong thời"
+      }
+    ]
+  }
+]
